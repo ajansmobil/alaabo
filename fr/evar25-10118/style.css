@@ -1,9 +1,9 @@
 
-  .etrrumenulist-menu:hover .dropdown-content-etrru {
+  .vueyemenulist-menu:hover .dropdown-content-vueye {
     display: flex;
     flex-direction: column;
   }
-  .etrrumenulist-menu {
+  .vueyemenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .etrrumenulist-menu:hover {
+  .vueyemenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .etrrumenulist-menu:hover > a {
+  .vueyemenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .etrrumenulist-menu > a {
+  .vueyemenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-etrru {
+  .dropdown-content-active-vueye {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-etrru > a {
+  .dropdown-content-active-vueye > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-etrru {
+  .dropdown-content-vueye {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-etrru > a {
+  .dropdown-content-vueye > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-etrru > a:hover {
+  .dropdown-content-vueye > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .etrrubody {
+  .vueyebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .etrrubody > a {
+  .vueyebody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .etrru-title {
+  .vueye-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .etrru-spot {
+  .vueye-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .etrru-icon {
+  .vueye-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .etrru {
+  .vueye {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .etrrutitle {
+  .vueyetitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .etrrutitlebody {
+  .vueyetitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .etrrutitlebodytitle {
+  .vueyetitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .etrrutitlebodylang {
+  .vueyetitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .etrrutitlebodylang ul {
+  .vueyetitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .etrrutitlebodylang li {
+  .vueyetitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .etrrumenu {
+  .vueyemenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .etrrumenulist {
+  .vueyemenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .etrrumenubody {
+  .vueyemenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .etrrumenulist {
+  .vueyemenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .etrrumenulistbody {
+  .vueyemenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .etrrumenu {
+    .vueyemenu {
       overflow-x: auto;
     }
-    .etrrumenulist {
+    .vueyemenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .etrrubody {
+    .vueyebody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -196,14 +196,14 @@
     justify-content: start;
   }
 
-  .gs8qf {
+  .wmpfq {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
   }
 
-  .gs8qf-menu {
+  .wmpfq-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -214,28 +214,28 @@
     float: left;
   }
 
-  .gs8qf-desc {
+  .wmpfq-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .gs8qf-menu>a {
+  .wmpfq-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .gs8qf-menu>.active,
-  .gs8qf-menu>a:hover {
+  .wmpfq-menu>.active,
+  .wmpfq-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .gs8qf-desc-menu {
+  .wmpfq-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -243,19 +243,19 @@
     border-radius: 5px;
   }
 
-  .gs8qf-desc-menu>div {
+  .wmpfq-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .gs8qf-desc-body {
+  .wmpfq-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .gs8qf-title {
+  .wmpfq-title {
     width: 100%;
     height: 150px;
     background-color: #000;
@@ -268,7 +268,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .gs8qf-title::before {
+  .wmpfq-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -283,57 +283,57 @@
     z-index: 1;
   }
 
-  .gs8qf-title span {
+  .wmpfq-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .gs8qf-body {
+  .wmpfq-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .gs8qf-img {
+  .wmpfq-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
   }
 
-  .gs8qf-img img {
+  .wmpfq-img img {
     width: 100%;
     border-radius: 10px;
   }
 
   @media screen and (min-width: 1024px) {
-    .gs8qf-desc {
+    .wmpfq-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .gs8qf {
+    .wmpfq {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
 
-    .gs8qf-img {
+    .wmpfq-img {
       width: 100%;
     }
 
-    .gs8qf-body {
+    .wmpfq-body {
       width: 100%;
     }
 
-    .gs8qf-menu {
+    .wmpfq-menu {
       display: none;
     }
 
-    .gs8qf-desc {
+    .wmpfq-desc {
       width: 100% !important;
     }
   }

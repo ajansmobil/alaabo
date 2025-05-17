@@ -1,9 +1,9 @@
 
-  .ar6x3menulist-menu:hover .dropdown-content-ar6x3 {
+  .bc3nsmenulist-menu:hover .dropdown-content-bc3ns {
     display: flex;
     flex-direction: column;
   }
-  .ar6x3menulist-menu {
+  .bc3nsmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .ar6x3menulist-menu:hover {
+  .bc3nsmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .ar6x3menulist-menu:hover > a {
+  .bc3nsmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .ar6x3menulist-menu > a {
+  .bc3nsmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-ar6x3 {
+  .dropdown-content-active-bc3ns {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-ar6x3 > a {
+  .dropdown-content-active-bc3ns > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-ar6x3 {
+  .dropdown-content-bc3ns {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-ar6x3 > a {
+  .dropdown-content-bc3ns > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-ar6x3 > a:hover {
+  .dropdown-content-bc3ns > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .ar6x3body {
+  .bc3nsbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .ar6x3body > a {
+  .bc3nsbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .ar6x3-title {
+  .bc3ns-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .ar6x3-spot {
+  .bc3ns-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .ar6x3-icon {
+  .bc3ns-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .ar6x3 {
+  .bc3ns {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .ar6x3title {
+  .bc3nstitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ar6x3titlebody {
+  .bc3nstitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .ar6x3titlebodytitle {
+  .bc3nstitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .ar6x3titlebodylang {
+  .bc3nstitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .ar6x3titlebodylang ul {
+  .bc3nstitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .ar6x3titlebodylang li {
+  .bc3nstitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .ar6x3menu {
+  .bc3nsmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .ar6x3menulist {
+  .bc3nsmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .ar6x3menubody {
+  .bc3nsmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ar6x3menulist {
+  .bc3nsmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .ar6x3menulistbody {
+  .bc3nsmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .ar6x3menu {
+    .bc3nsmenu {
       overflow-x: auto;
     }
-    .ar6x3menulist {
+    .bc3nsmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .ar6x3body {
+    .bc3nsbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -195,13 +195,13 @@
   #content {
     justify-content: start;
   }
-  .vipc9 {
+  .h3xjb {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .vipc9-menu {
+  .h3xjb-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -211,7 +211,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .vipc9-menu > a {
+  .h3xjb-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -219,18 +219,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .vipc9-menu > a:hover,
-  .vipc9-menu > .active {
+  .h3xjb-menu > a:hover,
+  .h3xjb-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .vipc9-body {
+  .h3xjb-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .vipc9-title {
+  .h3xjb-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -242,7 +242,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .vipc9-title::before {
+  .h3xjb-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -256,21 +256,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .vipc9-title span {
+  .h3xjb-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .vipc9 {
+    .h3xjb {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .vipc9-menu {
+    .h3xjb-menu {
       display: none;
     }
-    .vipc9-body {
+    .h3xjb-body {
       width: 100%;
     }
   }
