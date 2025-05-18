@@ -1,9 +1,9 @@
 
-  .vueyemenulist-menu:hover .dropdown-content-vueye {
+  .bve5wmenulist-menu:hover .dropdown-content-bve5w {
     display: flex;
     flex-direction: column;
   }
-  .vueyemenulist-menu {
+  .bve5wmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .vueyemenulist-menu:hover {
+  .bve5wmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .vueyemenulist-menu:hover > a {
+  .bve5wmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .vueyemenulist-menu > a {
+  .bve5wmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-vueye {
+  .dropdown-content-active-bve5w {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-vueye > a {
+  .dropdown-content-active-bve5w > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-vueye {
+  .dropdown-content-bve5w {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-vueye > a {
+  .dropdown-content-bve5w > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-vueye > a:hover {
+  .dropdown-content-bve5w > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .vueyebody {
+  .bve5wbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .vueyebody > a {
+  .bve5wbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .vueye-title {
+  .bve5w-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .vueye-spot {
+  .bve5w-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .vueye-icon {
+  .bve5w-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .vueye {
+  .bve5w {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .vueyetitle {
+  .bve5wtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vueyetitlebody {
+  .bve5wtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .vueyetitlebodytitle {
+  .bve5wtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .vueyetitlebodylang {
+  .bve5wtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .vueyetitlebodylang ul {
+  .bve5wtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .vueyetitlebodylang li {
+  .bve5wtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .vueyemenu {
+  .bve5wmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .vueyemenulist {
+  .bve5wmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .vueyemenubody {
+  .bve5wmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vueyemenulist {
+  .bve5wmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .vueyemenulistbody {
+  .bve5wmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .vueyemenu {
+    .bve5wmenu {
       overflow-x: auto;
     }
-    .vueyemenulist {
+    .bve5wmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .vueyebody {
+    .bve5wbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -196,14 +196,14 @@
     justify-content: start;
   }
 
-  .wmpfq {
+  .svmfc {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
   }
 
-  .wmpfq-menu {
+  .svmfc-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -214,28 +214,28 @@
     float: left;
   }
 
-  .wmpfq-desc {
+  .svmfc-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .wmpfq-menu>a {
+  .svmfc-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .wmpfq-menu>.active,
-  .wmpfq-menu>a:hover {
+  .svmfc-menu>.active,
+  .svmfc-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .wmpfq-desc-menu {
+  .svmfc-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -243,19 +243,19 @@
     border-radius: 5px;
   }
 
-  .wmpfq-desc-menu>div {
+  .svmfc-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .wmpfq-desc-body {
+  .svmfc-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .wmpfq-title {
+  .svmfc-title {
     width: 100%;
     height: 150px;
     background-color: #000;
@@ -268,7 +268,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .wmpfq-title::before {
+  .svmfc-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -283,57 +283,57 @@
     z-index: 1;
   }
 
-  .wmpfq-title span {
+  .svmfc-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .wmpfq-body {
+  .svmfc-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .wmpfq-img {
+  .svmfc-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
   }
 
-  .wmpfq-img img {
+  .svmfc-img img {
     width: 100%;
     border-radius: 10px;
   }
 
   @media screen and (min-width: 1024px) {
-    .wmpfq-desc {
+    .svmfc-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .wmpfq {
+    .svmfc {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
 
-    .wmpfq-img {
+    .svmfc-img {
       width: 100%;
     }
 
-    .wmpfq-body {
+    .svmfc-body {
       width: 100%;
     }
 
-    .wmpfq-menu {
+    .svmfc-menu {
       display: none;
     }
 
-    .wmpfq-desc {
+    .svmfc-desc {
       width: 100% !important;
     }
   }
