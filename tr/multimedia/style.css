@@ -1,9 +1,9 @@
 
-  .oe616menulist-menu:hover .dropdown-content-oe616 {
+  .tr6apmenulist-menu:hover .dropdown-content-tr6ap {
     display: flex;
     flex-direction: column;
   }
-  .oe616menulist-menu {
+  .tr6apmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .oe616menulist-menu:hover {
+  .tr6apmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .oe616menulist-menu:hover > a {
+  .tr6apmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .oe616menulist-menu > a {
+  .tr6apmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-oe616 {
+  .dropdown-content-active-tr6ap {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-oe616 > a {
+  .dropdown-content-active-tr6ap > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-oe616 {
+  .dropdown-content-tr6ap {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-oe616 > a {
+  .dropdown-content-tr6ap > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-oe616 > a:hover {
+  .dropdown-content-tr6ap > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .oe616body {
+  .tr6apbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .oe616body > a {
+  .tr6apbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .oe616-title {
+  .tr6ap-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .oe616-spot {
+  .tr6ap-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .oe616-icon {
+  .tr6ap-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .oe616 {
+  .tr6ap {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .oe616title {
+  .tr6aptitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .oe616titlebody {
+  .tr6aptitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .oe616titlebodytitle {
+  .tr6aptitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .oe616titlebodylang {
+  .tr6aptitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .oe616titlebodylang ul {
+  .tr6aptitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .oe616titlebodylang li {
+  .tr6aptitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .oe616menu {
+  .tr6apmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .oe616menulist {
+  .tr6apmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .oe616menubody {
+  .tr6apmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .oe616menulist {
+  .tr6apmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .oe616menulistbody {
+  .tr6apmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .oe616menu {
+    .tr6apmenu {
       overflow-x: auto;
     }
-    .oe616menulist {
+    .tr6apmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .oe616body {
+    .tr6apbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-ultwwt-itle {
+  .slider-ghxn7t-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .ultww {
+  .ghxn7 {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .ultww-chile {
+  .ghxn7-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxi8sllbody {
+  .sliderxee9embody {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxi8sll {
+  .sliderxee9em {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxi8sll:hover {
+  .sliderxee9em:hover {
     transform: translateY(-5px);
   }
-  .sliderxi8slltitle {
+  .sliderxee9emtitle {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .i8sll {
+  .ee9em {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .i8sll-media {
+  .ee9em-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .i8sll-media:hover {
+  .ee9em-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxi8sll {
+    .sliderxee9em {
       width: calc(var(--max) - 100px) !important;
     }
-    .i8sll-media {
+    .ee9em-media {
       width: 60px;
       height: 60px;
     }

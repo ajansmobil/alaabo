@@ -1,9 +1,9 @@
 
-  .g0vc0menulist-menu:hover .dropdown-content-g0vc0 {
+  .fk0hlmenulist-menu:hover .dropdown-content-fk0hl {
     display: flex;
     flex-direction: column;
   }
-  .g0vc0menulist-menu {
+  .fk0hlmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .g0vc0menulist-menu:hover {
+  .fk0hlmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .g0vc0menulist-menu:hover > a {
+  .fk0hlmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .g0vc0menulist-menu > a {
+  .fk0hlmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-g0vc0 {
+  .dropdown-content-active-fk0hl {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-g0vc0 > a {
+  .dropdown-content-active-fk0hl > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-g0vc0 {
+  .dropdown-content-fk0hl {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-g0vc0 > a {
+  .dropdown-content-fk0hl > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-g0vc0 > a:hover {
+  .dropdown-content-fk0hl > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .g0vc0body {
+  .fk0hlbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .g0vc0body > a {
+  .fk0hlbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .g0vc0-title {
+  .fk0hl-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .g0vc0-spot {
+  .fk0hl-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .g0vc0-icon {
+  .fk0hl-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .g0vc0 {
+  .fk0hl {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .g0vc0title {
+  .fk0hltitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .g0vc0titlebody {
+  .fk0hltitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .g0vc0titlebodytitle {
+  .fk0hltitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .g0vc0titlebodylang {
+  .fk0hltitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .g0vc0titlebodylang ul {
+  .fk0hltitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .g0vc0titlebodylang li {
+  .fk0hltitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .g0vc0menu {
+  .fk0hlmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .g0vc0menulist {
+  .fk0hlmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .g0vc0menubody {
+  .fk0hlmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .g0vc0menulist {
+  .fk0hlmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .g0vc0menulistbody {
+  .fk0hlmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .g0vc0menu {
+    .fk0hlmenu {
       overflow-x: auto;
     }
-    .g0vc0menulist {
+    .fk0hlmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .g0vc0body {
+    .fk0hlbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-yrw98t-itle {
+  .slider-df76ft-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .yrw98 {
+  .df76f {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .yrw98-chile {
+  .df76f-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxwprl5body {
+  .sliderxgyr7ybody {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxwprl5 {
+  .sliderxgyr7y {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxwprl5:hover {
+  .sliderxgyr7y:hover {
     transform: translateY(-5px);
   }
-  .sliderxwprl5title {
+  .sliderxgyr7ytitle {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .wprl5 {
+  .gyr7y {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .wprl5-media {
+  .gyr7y-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .wprl5-media:hover {
+  .gyr7y-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxwprl5 {
+    .sliderxgyr7y {
       width: calc(var(--max) - 100px) !important;
     }
-    .wprl5-media {
+    .gyr7y-media {
       width: 60px;
       height: 60px;
     }
