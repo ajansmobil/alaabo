@@ -1,9 +1,9 @@
 
-  .a5fn0menulist-menu:hover .dropdown-content-a5fn0 {
+  .oe616menulist-menu:hover .dropdown-content-oe616 {
     display: flex;
     flex-direction: column;
   }
-  .a5fn0menulist-menu {
+  .oe616menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .a5fn0menulist-menu:hover {
+  .oe616menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .a5fn0menulist-menu:hover > a {
+  .oe616menulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .a5fn0menulist-menu > a {
+  .oe616menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-a5fn0 {
+  .dropdown-content-active-oe616 {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-a5fn0 > a {
+  .dropdown-content-active-oe616 > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-a5fn0 {
+  .dropdown-content-oe616 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-a5fn0 > a {
+  .dropdown-content-oe616 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-a5fn0 > a:hover {
+  .dropdown-content-oe616 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .a5fn0body {
+  .oe616body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .a5fn0body > a {
+  .oe616body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .a5fn0-title {
+  .oe616-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .a5fn0-spot {
+  .oe616-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .a5fn0-icon {
+  .oe616-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .a5fn0 {
+  .oe616 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .a5fn0title {
+  .oe616title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .a5fn0titlebody {
+  .oe616titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .a5fn0titlebodytitle {
+  .oe616titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .a5fn0titlebodylang {
+  .oe616titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .a5fn0titlebodylang ul {
+  .oe616titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .a5fn0titlebodylang li {
+  .oe616titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .a5fn0menu {
+  .oe616menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .a5fn0menulist {
+  .oe616menulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .a5fn0menubody {
+  .oe616menubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .a5fn0menulist {
+  .oe616menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .a5fn0menulistbody {
+  .oe616menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .a5fn0menu {
+    .oe616menu {
       overflow-x: auto;
     }
-    .a5fn0menulist {
+    .oe616menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .a5fn0body {
+    .oe616body {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-r7tgyt-itle {
+  .slider-ultwwt-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .r7tgy {
+  .ultww {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .r7tgy-chile {
+  .ultww-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxdcvxxbody {
+  .sliderxi8sllbody {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxdcvxx {
+  .sliderxi8sll {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxdcvxx:hover {
+  .sliderxi8sll:hover {
     transform: translateY(-5px);
   }
-  .sliderxdcvxxtitle {
+  .sliderxi8slltitle {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .dcvxx {
+  .i8sll {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .dcvxx-media {
+  .i8sll-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .dcvxx-media:hover {
+  .i8sll-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxdcvxx {
+    .sliderxi8sll {
       width: calc(var(--max) - 100px) !important;
     }
-    .dcvxx-media {
+    .i8sll-media {
       width: 60px;
       height: 60px;
     }

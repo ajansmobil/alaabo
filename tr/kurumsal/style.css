@@ -1,9 +1,9 @@
 
-  .ftvgumenulist-menu:hover .dropdown-content-ftvgu {
+  .sk8xvmenulist-menu:hover .dropdown-content-sk8xv {
     display: flex;
     flex-direction: column;
   }
-  .ftvgumenulist-menu {
+  .sk8xvmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .ftvgumenulist-menu:hover {
+  .sk8xvmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .ftvgumenulist-menu:hover > a {
+  .sk8xvmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .ftvgumenulist-menu > a {
+  .sk8xvmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-ftvgu {
+  .dropdown-content-active-sk8xv {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-ftvgu > a {
+  .dropdown-content-active-sk8xv > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-ftvgu {
+  .dropdown-content-sk8xv {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-ftvgu > a {
+  .dropdown-content-sk8xv > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-ftvgu > a:hover {
+  .dropdown-content-sk8xv > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .ftvgubody {
+  .sk8xvbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .ftvgubody > a {
+  .sk8xvbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .ftvgu-title {
+  .sk8xv-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .ftvgu-spot {
+  .sk8xv-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .ftvgu-icon {
+  .sk8xv-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .ftvgu {
+  .sk8xv {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .ftvgutitle {
+  .sk8xvtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ftvgutitlebody {
+  .sk8xvtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .ftvgutitlebodytitle {
+  .sk8xvtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .ftvgutitlebodylang {
+  .sk8xvtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .ftvgutitlebodylang ul {
+  .sk8xvtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .ftvgutitlebodylang li {
+  .sk8xvtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .ftvgumenu {
+  .sk8xvmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .ftvgumenulist {
+  .sk8xvmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .ftvgumenubody {
+  .sk8xvmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ftvgumenulist {
+  .sk8xvmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .ftvgumenulistbody {
+  .sk8xvmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .ftvgumenu {
+    .sk8xvmenu {
       overflow-x: auto;
     }
-    .ftvgumenulist {
+    .sk8xvmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .ftvgubody {
+    .sk8xvbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -195,13 +195,13 @@
   #content {
     justify-content: start;
   }
-  .e0znk {
+  .va555 {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .e0znk-menu {
+  .va555-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -211,7 +211,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .e0znk-menu > a {
+  .va555-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -219,18 +219,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .e0znk-menu > a:hover,
-  .e0znk-menu > .active {
+  .va555-menu > a:hover,
+  .va555-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .e0znk-body {
+  .va555-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .e0znk-title {
+  .va555-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -242,7 +242,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .e0znk-title::before {
+  .va555-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -256,21 +256,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .e0znk-title span {
+  .va555-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .e0znk {
+    .va555 {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .e0znk-menu {
+    .va555-menu {
       display: none;
     }
-    .e0znk-body {
+    .va555-body {
       width: 100%;
     }
   }
