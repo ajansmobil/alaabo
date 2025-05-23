@@ -1,9 +1,9 @@
 
-  .jxnlumenulist-menu:hover .dropdown-content-jxnlu {
+  .srhjtmenulist-menu:hover .dropdown-content-srhjt {
     display: flex;
     flex-direction: column;
   }
-  .jxnlumenulist-menu {
+  .srhjtmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .jxnlumenulist-menu:hover {
+  .srhjtmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .jxnlumenulist-menu:hover > a {
+  .srhjtmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .jxnlumenulist-menu > a {
+  .srhjtmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-jxnlu {
+  .dropdown-content-active-srhjt {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-jxnlu > a {
+  .dropdown-content-active-srhjt > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-jxnlu {
+  .dropdown-content-srhjt {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-jxnlu > a {
+  .dropdown-content-srhjt > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-jxnlu > a:hover {
+  .dropdown-content-srhjt > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .jxnlubody {
+  .srhjtbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .jxnlubody > a {
+  .srhjtbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .jxnlu-title {
+  .srhjt-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .jxnlu-spot {
+  .srhjt-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .jxnlu-icon {
+  .srhjt-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .jxnlu {
+  .srhjt {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .jxnlutitle {
+  .srhjttitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .jxnlutitlebody {
+  .srhjttitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .jxnlutitlebodytitle {
+  .srhjttitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .jxnlutitlebodylang {
+  .srhjttitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .jxnlutitlebodylang ul {
+  .srhjttitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .jxnlutitlebodylang li {
+  .srhjttitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .jxnlumenu {
+  .srhjtmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .jxnlumenulist {
+  .srhjtmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .jxnlumenubody {
+  .srhjtmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .jxnlumenulist {
+  .srhjtmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .jxnlumenulistbody {
+  .srhjtmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .jxnlumenu {
+    .srhjtmenu {
       overflow-x: auto;
     }
-    .jxnlumenulist {
+    .srhjtmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .jxnlubody {
+    .srhjtbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -196,14 +196,14 @@
     justify-content: start;
   }
 
-  .fgj7f {
+  .xamy5 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
   }
 
-  .fgj7f-menu {
+  .xamy5-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -214,28 +214,28 @@
     float: left;
   }
 
-  .fgj7f-desc {
+  .xamy5-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .fgj7f-menu>a {
+  .xamy5-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .fgj7f-menu>.active,
-  .fgj7f-menu>a:hover {
+  .xamy5-menu>.active,
+  .xamy5-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .fgj7f-desc-menu {
+  .xamy5-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -243,19 +243,19 @@
     border-radius: 5px;
   }
 
-  .fgj7f-desc-menu>div {
+  .xamy5-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .fgj7f-desc-body {
+  .xamy5-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .fgj7f-title {
+  .xamy5-title {
     width: 100%;
     height: 150px;
     background-color: #000;
@@ -268,7 +268,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .fgj7f-title::before {
+  .xamy5-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -283,57 +283,57 @@
     z-index: 1;
   }
 
-  .fgj7f-title span {
+  .xamy5-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .fgj7f-body {
+  .xamy5-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .fgj7f-img {
+  .xamy5-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
   }
 
-  .fgj7f-img img {
+  .xamy5-img img {
     width: 100%;
     border-radius: 10px;
   }
 
   @media screen and (min-width: 1024px) {
-    .fgj7f-desc {
+    .xamy5-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .fgj7f {
+    .xamy5 {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
 
-    .fgj7f-img {
+    .xamy5-img {
       width: 100%;
     }
 
-    .fgj7f-body {
+    .xamy5-body {
       width: 100%;
     }
 
-    .fgj7f-menu {
+    .xamy5-menu {
       display: none;
     }
 
-    .fgj7f-desc {
+    .xamy5-desc {
       width: 100% !important;
     }
   }

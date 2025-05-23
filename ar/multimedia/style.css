@@ -1,9 +1,9 @@
 
-  .e5qx4menulist-menu:hover .dropdown-content-e5qx4 {
+  .z83dcmenulist-menu:hover .dropdown-content-z83dc {
     display: flex;
     flex-direction: column;
   }
-  .e5qx4menulist-menu {
+  .z83dcmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .e5qx4menulist-menu:hover {
+  .z83dcmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .e5qx4menulist-menu:hover > a {
+  .z83dcmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .e5qx4menulist-menu > a {
+  .z83dcmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-e5qx4 {
+  .dropdown-content-active-z83dc {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-e5qx4 > a {
+  .dropdown-content-active-z83dc > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-e5qx4 {
+  .dropdown-content-z83dc {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-e5qx4 > a {
+  .dropdown-content-z83dc > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-e5qx4 > a:hover {
+  .dropdown-content-z83dc > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .e5qx4body {
+  .z83dcbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .e5qx4body > a {
+  .z83dcbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .e5qx4-title {
+  .z83dc-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .e5qx4-spot {
+  .z83dc-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .e5qx4-icon {
+  .z83dc-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .e5qx4 {
+  .z83dc {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .e5qx4title {
+  .z83dctitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .e5qx4titlebody {
+  .z83dctitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .e5qx4titlebodytitle {
+  .z83dctitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .e5qx4titlebodylang {
+  .z83dctitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .e5qx4titlebodylang ul {
+  .z83dctitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .e5qx4titlebodylang li {
+  .z83dctitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .e5qx4menu {
+  .z83dcmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .e5qx4menulist {
+  .z83dcmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .e5qx4menubody {
+  .z83dcmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .e5qx4menulist {
+  .z83dcmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .e5qx4menulistbody {
+  .z83dcmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .e5qx4menu {
+    .z83dcmenu {
       overflow-x: auto;
     }
-    .e5qx4menulist {
+    .z83dcmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .e5qx4body {
+    .z83dcbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-motb2t-itle {
+  .slider-id7ezt-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .motb2 {
+  .id7ez {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .motb2-chile {
+  .id7ez-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxgt573body {
+  .sliderxkzf57body {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxgt573 {
+  .sliderxkzf57 {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxgt573:hover {
+  .sliderxkzf57:hover {
     transform: translateY(-5px);
   }
-  .sliderxgt573title {
+  .sliderxkzf57title {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .gt573 {
+  .kzf57 {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .gt573-media {
+  .kzf57-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .gt573-media:hover {
+  .kzf57-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxgt573 {
+    .sliderxkzf57 {
       width: calc(var(--max) - 100px) !important;
     }
-    .gt573-media {
+    .kzf57-media {
       width: 60px;
       height: 60px;
     }

@@ -1,9 +1,9 @@
 
-  .vpfxumenulist-menu:hover .dropdown-content-vpfxu {
+  .xmzetmenulist-menu:hover .dropdown-content-xmzet {
     display: flex;
     flex-direction: column;
   }
-  .vpfxumenulist-menu {
+  .xmzetmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .vpfxumenulist-menu:hover {
+  .xmzetmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .vpfxumenulist-menu:hover > a {
+  .xmzetmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .vpfxumenulist-menu > a {
+  .xmzetmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-vpfxu {
+  .dropdown-content-active-xmzet {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-vpfxu > a {
+  .dropdown-content-active-xmzet > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-vpfxu {
+  .dropdown-content-xmzet {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-vpfxu > a {
+  .dropdown-content-xmzet > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-vpfxu > a:hover {
+  .dropdown-content-xmzet > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .vpfxubody {
+  .xmzetbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .vpfxubody > a {
+  .xmzetbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .vpfxu-title {
+  .xmzet-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .vpfxu-spot {
+  .xmzet-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .vpfxu-icon {
+  .xmzet-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .vpfxu {
+  .xmzet {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .vpfxutitle {
+  .xmzettitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vpfxutitlebody {
+  .xmzettitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .vpfxutitlebodytitle {
+  .xmzettitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .vpfxutitlebodylang {
+  .xmzettitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .vpfxutitlebodylang ul {
+  .xmzettitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .vpfxutitlebodylang li {
+  .xmzettitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .vpfxumenu {
+  .xmzetmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .vpfxumenulist {
+  .xmzetmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .vpfxumenubody {
+  .xmzetmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vpfxumenulist {
+  .xmzetmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .vpfxumenulistbody {
+  .xmzetmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .vpfxumenu {
+    .xmzetmenu {
       overflow-x: auto;
     }
-    .vpfxumenulist {
+    .xmzetmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .vpfxubody {
+    .xmzetbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-xsy8mt-itle {
+  .slider-zflmrt-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .xsy8m {
+  .zflmr {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .xsy8m-chile {
+  .zflmr-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxu0c66body {
+  .sliderxddquubody {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxu0c66 {
+  .sliderxddquu {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxu0c66:hover {
+  .sliderxddquu:hover {
     transform: translateY(-5px);
   }
-  .sliderxu0c66title {
+  .sliderxddquutitle {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .u0c66 {
+  .ddquu {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .u0c66-media {
+  .ddquu-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .u0c66-media:hover {
+  .ddquu-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxu0c66 {
+    .sliderxddquu {
       width: calc(var(--max) - 100px) !important;
     }
-    .u0c66-media {
+    .ddquu-media {
       width: 60px;
       height: 60px;
     }

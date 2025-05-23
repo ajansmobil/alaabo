@@ -1,9 +1,9 @@
 
-  .luuu2menulist-menu:hover .dropdown-content-luuu2 {
+  .cztsxmenulist-menu:hover .dropdown-content-cztsx {
     display: flex;
     flex-direction: column;
   }
-  .luuu2menulist-menu {
+  .cztsxmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .luuu2menulist-menu:hover {
+  .cztsxmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .luuu2menulist-menu:hover > a {
+  .cztsxmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .luuu2menulist-menu > a {
+  .cztsxmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-luuu2 {
+  .dropdown-content-active-cztsx {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-luuu2 > a {
+  .dropdown-content-active-cztsx > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-luuu2 {
+  .dropdown-content-cztsx {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-luuu2 > a {
+  .dropdown-content-cztsx > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-luuu2 > a:hover {
+  .dropdown-content-cztsx > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .luuu2body {
+  .cztsxbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .luuu2body > a {
+  .cztsxbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .luuu2-title {
+  .cztsx-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .luuu2-spot {
+  .cztsx-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .luuu2-icon {
+  .cztsx-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .luuu2 {
+  .cztsx {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .luuu2title {
+  .cztsxtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .luuu2titlebody {
+  .cztsxtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .luuu2titlebodytitle {
+  .cztsxtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .luuu2titlebodylang {
+  .cztsxtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .luuu2titlebodylang ul {
+  .cztsxtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .luuu2titlebodylang li {
+  .cztsxtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .luuu2menu {
+  .cztsxmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .luuu2menulist {
+  .cztsxmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .luuu2menubody {
+  .cztsxmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .luuu2menulist {
+  .cztsxmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .luuu2menulistbody {
+  .cztsxmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .luuu2menu {
+    .cztsxmenu {
       overflow-x: auto;
     }
-    .luuu2menulist {
+    .cztsxmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .luuu2body {
+    .cztsxbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -196,14 +196,14 @@
     justify-content: start;
   }
 
-  .sxqz8 {
+  .jtuqh {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
   }
 
-  .sxqz8-menu {
+  .jtuqh-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -214,28 +214,28 @@
     float: left;
   }
 
-  .sxqz8-desc {
+  .jtuqh-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .sxqz8-menu>a {
+  .jtuqh-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .sxqz8-menu>.active,
-  .sxqz8-menu>a:hover {
+  .jtuqh-menu>.active,
+  .jtuqh-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .sxqz8-desc-menu {
+  .jtuqh-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -243,19 +243,19 @@
     border-radius: 5px;
   }
 
-  .sxqz8-desc-menu>div {
+  .jtuqh-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .sxqz8-desc-body {
+  .jtuqh-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .sxqz8-title {
+  .jtuqh-title {
     width: 100%;
     height: 150px;
     background-color: #000;
@@ -268,7 +268,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .sxqz8-title::before {
+  .jtuqh-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -283,57 +283,57 @@
     z-index: 1;
   }
 
-  .sxqz8-title span {
+  .jtuqh-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .sxqz8-body {
+  .jtuqh-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .sxqz8-img {
+  .jtuqh-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
   }
 
-  .sxqz8-img img {
+  .jtuqh-img img {
     width: 100%;
     border-radius: 10px;
   }
 
   @media screen and (min-width: 1024px) {
-    .sxqz8-desc {
+    .jtuqh-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .sxqz8 {
+    .jtuqh {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
 
-    .sxqz8-img {
+    .jtuqh-img {
       width: 100%;
     }
 
-    .sxqz8-body {
+    .jtuqh-body {
       width: 100%;
     }
 
-    .sxqz8-menu {
+    .jtuqh-menu {
       display: none;
     }
 
-    .sxqz8-desc {
+    .jtuqh-desc {
       width: 100% !important;
     }
   }
