@@ -1,9 +1,9 @@
 
-  .qfr4xmenulist-menu:hover .dropdown-content-qfr4x {
+  .roc3rmenulist-menu:hover .dropdown-content-roc3r {
     display: flex;
     flex-direction: column;
   }
-  .qfr4xmenulist-menu {
+  .roc3rmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .qfr4xmenulist-menu:hover {
+  .roc3rmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .qfr4xmenulist-menu:hover > a {
+  .roc3rmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .qfr4xmenulist-menu > a {
+  .roc3rmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-qfr4x {
+  .dropdown-content-active-roc3r {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-qfr4x > a {
+  .dropdown-content-active-roc3r > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-qfr4x {
+  .dropdown-content-roc3r {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-qfr4x > a {
+  .dropdown-content-roc3r > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-qfr4x > a:hover {
+  .dropdown-content-roc3r > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .qfr4xbody {
+  .roc3rbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .qfr4xbody > a {
+  .roc3rbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .qfr4x-title {
+  .roc3r-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .qfr4x-spot {
+  .roc3r-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .qfr4x-icon {
+  .roc3r-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .qfr4x {
+  .roc3r {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .qfr4xtitle {
+  .roc3rtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .qfr4xtitlebody {
+  .roc3rtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .qfr4xtitlebodytitle {
+  .roc3rtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .qfr4xtitlebodylang {
+  .roc3rtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .qfr4xtitlebodylang ul {
+  .roc3rtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .qfr4xtitlebodylang li {
+  .roc3rtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .qfr4xmenu {
+  .roc3rmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .qfr4xmenulist {
+  .roc3rmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .qfr4xmenubody {
+  .roc3rmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .qfr4xmenulist {
+  .roc3rmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .qfr4xmenulistbody {
+  .roc3rmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .qfr4xmenu {
+    .roc3rmenu {
       overflow-x: auto;
     }
-    .qfr4xmenulist {
+    .roc3rmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .qfr4xbody {
+    .roc3rbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-c6t3gt-itle {
+  .slider-ok93yt-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .c6t3g {
+  .ok93y {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .c6t3g-chile {
+  .ok93y-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxg46cpbody {
+  .sliderxwrhc8body {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxg46cp {
+  .sliderxwrhc8 {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxg46cp:hover {
+  .sliderxwrhc8:hover {
     transform: translateY(-5px);
   }
-  .sliderxg46cptitle {
+  .sliderxwrhc8title {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .g46cp {
+  .wrhc8 {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .g46cp-media {
+  .wrhc8-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .g46cp-media:hover {
+  .wrhc8-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxg46cp {
+    .sliderxwrhc8 {
       width: calc(var(--max) - 100px) !important;
     }
-    .g46cp-media {
+    .wrhc8-media {
       width: 60px;
       height: 60px;
     }

@@ -1,9 +1,9 @@
 
-  .aot7gmenulist-menu:hover .dropdown-content-aot7g {
+  .ghflsmenulist-menu:hover .dropdown-content-ghfls {
     display: flex;
     flex-direction: column;
   }
-  .aot7gmenulist-menu {
+  .ghflsmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .aot7gmenulist-menu:hover {
+  .ghflsmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .aot7gmenulist-menu:hover > a {
+  .ghflsmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .aot7gmenulist-menu > a {
+  .ghflsmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-aot7g {
+  .dropdown-content-active-ghfls {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-aot7g > a {
+  .dropdown-content-active-ghfls > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-aot7g {
+  .dropdown-content-ghfls {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-aot7g > a {
+  .dropdown-content-ghfls > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-aot7g > a:hover {
+  .dropdown-content-ghfls > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .aot7gbody {
+  .ghflsbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .aot7gbody > a {
+  .ghflsbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .aot7g-title {
+  .ghfls-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .aot7g-spot {
+  .ghfls-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .aot7g-icon {
+  .ghfls-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .aot7g {
+  .ghfls {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .aot7gtitle {
+  .ghflstitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .aot7gtitlebody {
+  .ghflstitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .aot7gtitlebodytitle {
+  .ghflstitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .aot7gtitlebodylang {
+  .ghflstitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .aot7gtitlebodylang ul {
+  .ghflstitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .aot7gtitlebodylang li {
+  .ghflstitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .aot7gmenu {
+  .ghflsmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .aot7gmenulist {
+  .ghflsmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .aot7gmenubody {
+  .ghflsmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .aot7gmenulist {
+  .ghflsmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .aot7gmenulistbody {
+  .ghflsmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .aot7gmenu {
+    .ghflsmenu {
       overflow-x: auto;
     }
-    .aot7gmenulist {
+    .ghflsmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .aot7gbody {
+    .ghflsbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -195,13 +195,13 @@
   #content {
     justify-content: start;
   }
-  .adgcu {
+  .q2eru {
     display: flex;
     width: var(--max);
     margin-top: 20px;
     gap: 20px;
   }
-  .adgcu-menu {
+  .q2eru-menu {
     width: 220px;
     background-color: --menubgcolor--;
     border-radius: 5px;
@@ -211,7 +211,7 @@
     gap: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  .adgcu-menu > a {
+  .q2eru-menu > a {
     background-color: #ffffff;
     padding: 10px 15px;
     border-radius: 5px;
@@ -219,18 +219,18 @@
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  .adgcu-menu > a:hover,
-  .adgcu-menu > .active {
+  .q2eru-menu > a:hover,
+  .q2eru-menu > .active {
     background-color: #1e3046;
     color: #fff;
   }
-  .adgcu-body {
+  .q2eru-body {
     flex: 1;
     display: flex;
     flex-direction: column;
     gap: 5px;
   }
-  .adgcu-title {
+  .q2eru-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -242,7 +242,7 @@
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  .adgcu-title::before {
+  .q2eru-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -256,21 +256,21 @@
     opacity: 0.5;
     z-index: 1;
   }
-  .adgcu-title span {
+  .q2eru-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
   @media screen and (max-width: 1024px) {
-    .adgcu {
+    .q2eru {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
     }
-    .adgcu-menu {
+    .q2eru-menu {
       display: none;
     }
-    .adgcu-body {
+    .q2eru-body {
       width: 100%;
     }
   }
