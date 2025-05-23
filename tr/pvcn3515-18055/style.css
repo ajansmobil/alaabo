@@ -1,9 +1,9 @@
 
-  .ffeu2menulist-menu:hover .dropdown-content-ffeu2 {
+  .juohgmenulist-menu:hover .dropdown-content-juohg {
     display: flex;
     flex-direction: column;
   }
-  .ffeu2menulist-menu {
+  .juohgmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .ffeu2menulist-menu:hover {
+  .juohgmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .ffeu2menulist-menu:hover > a {
+  .juohgmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .ffeu2menulist-menu > a {
+  .juohgmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-ffeu2 {
+  .dropdown-content-active-juohg {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-ffeu2 > a {
+  .dropdown-content-active-juohg > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-ffeu2 {
+  .dropdown-content-juohg {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-ffeu2 > a {
+  .dropdown-content-juohg > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-ffeu2 > a:hover {
+  .dropdown-content-juohg > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .ffeu2body {
+  .juohgbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .ffeu2body > a {
+  .juohgbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .ffeu2-title {
+  .juohg-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .ffeu2-spot {
+  .juohg-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .ffeu2-icon {
+  .juohg-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .ffeu2 {
+  .juohg {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .ffeu2title {
+  .juohgtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ffeu2titlebody {
+  .juohgtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .ffeu2titlebodytitle {
+  .juohgtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .ffeu2titlebodylang {
+  .juohgtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .ffeu2titlebodylang ul {
+  .juohgtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .ffeu2titlebodylang li {
+  .juohgtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .ffeu2menu {
+  .juohgmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .ffeu2menulist {
+  .juohgmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .ffeu2menubody {
+  .juohgmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ffeu2menulist {
+  .juohgmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .ffeu2menulistbody {
+  .juohgmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .ffeu2menu {
+    .juohgmenu {
       overflow-x: auto;
     }
-    .ffeu2menulist {
+    .juohgmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .ffeu2body {
+    .juohgbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -196,14 +196,14 @@
     justify-content: start;
   }
 
-  .gn6ax {
+  .fhvo7 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
   }
 
-  .gn6ax-menu {
+  .fhvo7-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -214,28 +214,28 @@
     float: left;
   }
 
-  .gn6ax-desc {
+  .fhvo7-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .gn6ax-menu>a {
+  .fhvo7-menu>a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .gn6ax-menu>.active,
-  .gn6ax-menu>a:hover {
+  .fhvo7-menu>.active,
+  .fhvo7-menu>a:hover {
     background-color: #1e3046;
     color: #fff;
     display: flex;
   }
 
-  .gn6ax-desc-menu {
+  .fhvo7-desc-menu {
     width: 200px;
     background-color: #1e3046;
     display: flex;
@@ -243,19 +243,19 @@
     border-radius: 5px;
   }
 
-  .gn6ax-desc-menu>div {
+  .fhvo7-desc-menu>div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .gn6ax-desc-body {
+  .fhvo7-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .gn6ax-title {
+  .fhvo7-title {
     width: 100%;
     height: 150px;
     background-color: #000;
@@ -268,7 +268,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .gn6ax-title::before {
+  .fhvo7-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -283,57 +283,57 @@
     z-index: 1;
   }
 
-  .gn6ax-title span {
+  .fhvo7-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .gn6ax-body {
+  .fhvo7-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .gn6ax-img {
+  .fhvo7-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
   }
 
-  .gn6ax-img img {
+  .fhvo7-img img {
     width: 100%;
     border-radius: 10px;
   }
 
   @media screen and (min-width: 1024px) {
-    .gn6ax-desc {
+    .fhvo7-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .gn6ax {
+    .fhvo7 {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
 
-    .gn6ax-img {
+    .fhvo7-img {
       width: 100%;
     }
 
-    .gn6ax-body {
+    .fhvo7-body {
       width: 100%;
     }
 
-    .gn6ax-menu {
+    .fhvo7-menu {
       display: none;
     }
 
-    .gn6ax-desc {
+    .fhvo7-desc {
       width: 100% !important;
     }
   }
