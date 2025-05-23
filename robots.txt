@@ -1,3 +1,3 @@
 User-agent: *
   Disallow:
-  Sitemap: https://alaabo.company/map.xml
+  Sitemap: https://Alabo.company/map.xml

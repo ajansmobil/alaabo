@@ -1,9 +1,9 @@
 
-  .dusromenulist-menu:hover .dropdown-content-dusro {
+  .mpf3qmenulist-menu:hover .dropdown-content-mpf3q {
     display: flex;
     flex-direction: column;
   }
-  .dusromenulist-menu {
+  .mpf3qmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .dusromenulist-menu:hover {
+  .mpf3qmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .dusromenulist-menu:hover > a {
+  .mpf3qmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .dusromenulist-menu > a {
+  .mpf3qmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-dusro {
+  .dropdown-content-active-mpf3q {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-dusro > a {
+  .dropdown-content-active-mpf3q > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-dusro {
+  .dropdown-content-mpf3q {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-dusro > a {
+  .dropdown-content-mpf3q > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-dusro > a:hover {
+  .dropdown-content-mpf3q > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .dusrobody {
+  .mpf3qbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .dusrobody > a {
+  .mpf3qbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .dusro-title {
+  .mpf3q-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .dusro-spot {
+  .mpf3q-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .dusro-icon {
+  .mpf3q-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .dusro {
+  .mpf3q {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .dusrotitle {
+  .mpf3qtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .dusrotitlebody {
+  .mpf3qtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .dusrotitlebodytitle {
+  .mpf3qtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .dusrotitlebodylang {
+  .mpf3qtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .dusrotitlebodylang ul {
+  .mpf3qtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .dusrotitlebodylang li {
+  .mpf3qtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .dusromenu {
+  .mpf3qmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .dusromenulist {
+  .mpf3qmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .dusromenubody {
+  .mpf3qmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .dusromenulist {
+  .mpf3qmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .dusromenulistbody {
+  .mpf3qmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .dusromenu {
+    .mpf3qmenu {
       overflow-x: auto;
     }
-    .dusromenulist {
+    .mpf3qmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .dusrobody {
+    .mpf3qbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-owgeft-itle {
+  .slider-d67cyt-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .owgef {
+  .d67cy {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .owgef-chile {
+  .d67cy-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxxoj5ybody {
+  .sliderxe0xccbody {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxxoj5y {
+  .sliderxe0xcc {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxxoj5y:hover {
+  .sliderxe0xcc:hover {
     transform: translateY(-5px);
   }
-  .sliderxxoj5ytitle {
+  .sliderxe0xcctitle {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .xoj5y {
+  .e0xcc {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .xoj5y-media {
+  .e0xcc-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .xoj5y-media:hover {
+  .e0xcc-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxxoj5y {
+    .sliderxe0xcc {
       width: calc(var(--max) - 100px) !important;
     }
-    .xoj5y-media {
+    .e0xcc-media {
       width: 60px;
       height: 60px;
     }
