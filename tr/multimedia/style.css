@@ -1,9 +1,9 @@
 
-  .t7cu2menulist-menu:hover .dropdown-content-t7cu2 {
+  .k0mxrmenulist-menu:hover .dropdown-content-k0mxr {
     display: flex;
     flex-direction: column;
   }
-  .t7cu2menulist-menu {
+  .k0mxrmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .t7cu2menulist-menu:hover {
+  .k0mxrmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .t7cu2menulist-menu:hover > a {
+  .k0mxrmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .t7cu2menulist-menu > a {
+  .k0mxrmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-t7cu2 {
+  .dropdown-content-active-k0mxr {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-t7cu2 > a {
+  .dropdown-content-active-k0mxr > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-t7cu2 {
+  .dropdown-content-k0mxr {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-t7cu2 > a {
+  .dropdown-content-k0mxr > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-t7cu2 > a:hover {
+  .dropdown-content-k0mxr > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .t7cu2body {
+  .k0mxrbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .t7cu2body > a {
+  .k0mxrbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .t7cu2-title {
+  .k0mxr-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .t7cu2-spot {
+  .k0mxr-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .t7cu2-icon {
+  .k0mxr-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .t7cu2 {
+  .k0mxr {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .t7cu2title {
+  .k0mxrtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .t7cu2titlebody {
+  .k0mxrtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .t7cu2titlebodytitle {
+  .k0mxrtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .t7cu2titlebodylang {
+  .k0mxrtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .t7cu2titlebodylang ul {
+  .k0mxrtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .t7cu2titlebodylang li {
+  .k0mxrtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .t7cu2menu {
+  .k0mxrmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .t7cu2menulist {
+  .k0mxrmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .t7cu2menubody {
+  .k0mxrmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .t7cu2menulist {
+  .k0mxrmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .t7cu2menulistbody {
+  .k0mxrmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .t7cu2menu {
+    .k0mxrmenu {
       overflow-x: auto;
     }
-    .t7cu2menulist {
+    .k0mxrmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .t7cu2body {
+    .k0mxrbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-hqsqct-itle {
+  .slider-fypvot-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .hqsqc {
+  .fypvo {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .hqsqc-chile {
+  .fypvo-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxdxxw5body {
+  .sliderxi4gszbody {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxdxxw5 {
+  .sliderxi4gsz {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxdxxw5:hover {
+  .sliderxi4gsz:hover {
     transform: translateY(-5px);
   }
-  .sliderxdxxw5title {
+  .sliderxi4gsztitle {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .dxxw5 {
+  .i4gsz {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .dxxw5-media {
+  .i4gsz-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .dxxw5-media:hover {
+  .i4gsz-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxdxxw5 {
+    .sliderxi4gsz {
       width: calc(var(--max) - 100px) !important;
     }
-    .dxxw5-media {
+    .i4gsz-media {
       width: 60px;
       height: 60px;
     }

@@ -1,9 +1,9 @@
 
-  .qaik0menulist-menu:hover .dropdown-content-qaik0 {
+  .oomtgmenulist-menu:hover .dropdown-content-oomtg {
     display: flex;
     flex-direction: column;
   }
-  .qaik0menulist-menu {
+  .oomtgmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .qaik0menulist-menu:hover {
+  .oomtgmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .qaik0menulist-menu:hover > a {
+  .oomtgmenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .qaik0menulist-menu > a {
+  .oomtgmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-qaik0 {
+  .dropdown-content-active-oomtg {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-qaik0 > a {
+  .dropdown-content-active-oomtg > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-qaik0 {
+  .dropdown-content-oomtg {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-qaik0 > a {
+  .dropdown-content-oomtg > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-qaik0 > a:hover {
+  .dropdown-content-oomtg > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .qaik0body {
+  .oomtgbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .qaik0body > a {
+  .oomtgbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .qaik0-title {
+  .oomtg-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .qaik0-spot {
+  .oomtg-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .qaik0-icon {
+  .oomtg-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .qaik0 {
+  .oomtg {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .qaik0title {
+  .oomtgtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .qaik0titlebody {
+  .oomtgtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .qaik0titlebodytitle {
+  .oomtgtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .qaik0titlebodylang {
+  .oomtgtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .qaik0titlebodylang ul {
+  .oomtgtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .qaik0titlebodylang li {
+  .oomtgtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .qaik0menu {
+  .oomtgmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .qaik0menulist {
+  .oomtgmenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .qaik0menubody {
+  .oomtgmenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .qaik0menulist {
+  .oomtgmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .qaik0menulistbody {
+  .oomtgmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .qaik0menu {
+    .oomtgmenu {
       overflow-x: auto;
     }
-    .qaik0menulist {
+    .oomtgmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .qaik0body {
+    .oomtgbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,19 +192,19 @@
   }
 
 
-  .ohxqw {
+  .y71eq {
     margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ohxqwbody {
+  .y71eqbody {
     width: var(--max);
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(4, 1fr);
   }
-  .ohxqwbodyitem {
+  .y71eqbodyitem {
     aspect-ratio: 7 / 4;
     background-color: #f2f2f2;
     border-radius: 5px;
@@ -214,7 +214,7 @@
     gap: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
-  .ohxqwbodyitemimg {
+  .y71eqbodyitemimg {
     aspect-ratio: 12 / 8;
     display: flex;
     justify-content: center;
@@ -223,13 +223,13 @@
     border-radius: 5px;
     overflow: hidden; /* Taşma durumunda kesme */
   }
-  .ohxqwbodyitemimg img {
+  .y71eqbodyitemimg img {
     width: 100%;
     height: 100%;
     object-fit: contain; /* Resmi sığdır, taşma yapmasın */
     border-radius: 5px;
   }
-  .ohxqwbodyitemtitle {
+  .y71eqbodyitemtitle {
     border-radius: 3px;
     padding: 5px;
     background-color: #e9e9e9;
@@ -241,14 +241,14 @@
     color: #333;
   }
   @media screen and (max-width: 1024px) {
-    .ohxqwbody {
+    .y71eqbody {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(3, 1fr);
     }
   }
   @media screen and (max-width: 768px) {
-    .ohxqwbody {
+    .y71eqbody {
       width: calc(100% - 10px);
       margin: 0px 5px 0px 5px;
       grid-template-columns: repeat(2, 1fr);

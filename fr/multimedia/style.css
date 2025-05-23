@@ -1,9 +1,9 @@
 
-  .s3536menulist-menu:hover .dropdown-content-s3536 {
+  .iv8oamenulist-menu:hover .dropdown-content-iv8oa {
     display: flex;
     flex-direction: column;
   }
-  .s3536menulist-menu {
+  .iv8oamenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .s3536menulist-menu:hover {
+  .iv8oamenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .s3536menulist-menu:hover > a {
+  .iv8oamenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .s3536menulist-menu > a {
+  .iv8oamenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-s3536 {
+  .dropdown-content-active-iv8oa {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-s3536 > a {
+  .dropdown-content-active-iv8oa > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-s3536 {
+  .dropdown-content-iv8oa {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-s3536 > a {
+  .dropdown-content-iv8oa > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-s3536 > a:hover {
+  .dropdown-content-iv8oa > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .s3536body {
+  .iv8oabody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .s3536body > a {
+  .iv8oabody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .s3536-title {
+  .iv8oa-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .s3536-spot {
+  .iv8oa-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .s3536-icon {
+  .iv8oa-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .s3536 {
+  .iv8oa {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .s3536title {
+  .iv8oatitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .s3536titlebody {
+  .iv8oatitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .s3536titlebodytitle {
+  .iv8oatitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .s3536titlebodylang {
+  .iv8oatitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .s3536titlebodylang ul {
+  .iv8oatitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .s3536titlebodylang li {
+  .iv8oatitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .s3536menu {
+  .iv8oamenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .s3536menulist {
+  .iv8oamenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .s3536menubody {
+  .iv8oamenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .s3536menulist {
+  .iv8oamenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .s3536menulistbody {
+  .iv8oamenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .s3536menu {
+    .iv8oamenu {
       overflow-x: auto;
     }
-    .s3536menulist {
+    .iv8oamenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .s3536body {
+    .iv8oabody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-b2bc8t-itle {
+  .slider-baeg0t-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .b2bc8 {
+  .baeg0 {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .b2bc8-chile {
+  .baeg0-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxh0ezhbody {
+  .sliderxs12a8body {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxh0ezh {
+  .sliderxs12a8 {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxh0ezh:hover {
+  .sliderxs12a8:hover {
     transform: translateY(-5px);
   }
-  .sliderxh0ezhtitle {
+  .sliderxs12a8title {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .h0ezh {
+  .s12a8 {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .h0ezh-media {
+  .s12a8-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .h0ezh-media:hover {
+  .s12a8-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxh0ezh {
+    .sliderxs12a8 {
       width: calc(var(--max) - 100px) !important;
     }
-    .h0ezh-media {
+    .s12a8-media {
       width: 60px;
       height: 60px;
     }

@@ -1,9 +1,9 @@
 
-  .roc3rmenulist-menu:hover .dropdown-content-roc3r {
+  .vpfxumenulist-menu:hover .dropdown-content-vpfxu {
     display: flex;
     flex-direction: column;
   }
-  .roc3rmenulist-menu {
+  .vpfxumenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,27 +17,27 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .roc3rmenulist-menu:hover {
+  .vpfxumenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .roc3rmenulist-menu:hover > a {
+  .vpfxumenulist-menu:hover > a {
     color: #000 !important;
   }
 
 
 
 
-  .roc3rmenulist-menu > a {
+  .vpfxumenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-roc3r {
+  .dropdown-content-active-vpfxu {
      background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
@@ -45,13 +45,13 @@
 
   }
 
-  .dropdown-content-active-roc3r > a {
+  .dropdown-content-active-vpfxu > a {
     color: #000 !important;
   }
 
 
 
-  .dropdown-content-roc3r {
+  .dropdown-content-vpfxu {
     display: none;
     position: absolute;
     background-color: #333;
@@ -60,7 +60,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-roc3r > a {
+  .dropdown-content-vpfxu > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -68,13 +68,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-roc3r > a:hover {
+  .dropdown-content-vpfxu > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 200px;
   }
-  .roc3rbody {
+  .vpfxubody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -82,87 +82,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .roc3rbody > a {
+  .vpfxubody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .roc3r-title {
+  .vpfxu-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .roc3r-spot {
+  .vpfxu-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .roc3r-icon {
+  .vpfxu-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .roc3r {
+  .vpfxu {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .roc3rtitle {
+  .vpfxutitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .roc3rtitlebody {
+  .vpfxutitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .roc3rtitlebodytitle {
+  .vpfxutitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .roc3rtitlebodylang {
+  .vpfxutitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .roc3rtitlebodylang ul {
+  .vpfxutitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .roc3rtitlebodylang li {
+  .vpfxutitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .roc3rmenu {
+  .vpfxumenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .roc3rmenulist {
+  .vpfxumenulist {
     width: calc(100% - 20px);
     background-color: #1e3046;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .roc3rmenubody {
+  .vpfxumenubody {
     width: 100%;
     background-color: #1e3046;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .roc3rmenulist {
+  .vpfxumenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -171,20 +171,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .roc3rmenulistbody {
+  .vpfxumenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .roc3rmenu {
+    .vpfxumenu {
       overflow-x: auto;
     }
-    .roc3rmenulist {
+    .vpfxumenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .roc3rbody {
+    .vpfxubody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -192,13 +192,13 @@
   }
 
 
-  .slider-ok93yt-itle {
+  .slider-xsy8mt-itle {
     margin-top: 20px;
     font-size: 28px;
     font-weight: 500;
     width: var(--max);
   }
-  .ok93y {
+  .xsy8m {
     width: 100%;
     background-color: #000;
     margin-bottom: 20px;
@@ -207,7 +207,7 @@
     justify-content: center;
     flex-direction: column;
   }
-  .ok93y-chile {
+  .xsy8m-chile {
     width: var(--max);
   }
   .video-container,
@@ -216,7 +216,7 @@
   }
 
 
-  .sliderxwrhc8body {
+  .sliderxu0c66body {
     width: 100%;
     display: flex;
     align-items: center;
@@ -225,7 +225,7 @@
     margin: 0px 0px 0px 0px;
     padding: 25px 0px 25px 0px;
   }
-  .sliderxwrhc8 {
+  .sliderxu0c66 {
     width: calc(var(--max) - 40px);
     display: flex;
     background-color: #f9f9f9;
@@ -235,10 +235,10 @@
     box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease-in-out;
   }
-  .sliderxwrhc8:hover {
+  .sliderxu0c66:hover {
     transform: translateY(-5px);
   }
-  .sliderxwrhc8title {
+  .sliderxu0c66title {
     width: 60%;
     font-size: 28px;
     padding-right: 15px;
@@ -249,14 +249,14 @@
     justify-content: center;
     border-right: 2px solid #004e92;
   }
-  .wrhc8 {
+  .u0c66 {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 10px;
   }
-  .wrhc8-media {
+  .u0c66-media {
     width: 75px;
     height: 75px;
     border-radius: 8px;
@@ -264,14 +264,14 @@
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   }
-  .wrhc8-media:hover {
+  .u0c66-media:hover {
     transform: scale(1.2);
   }
   @media screen and (max-width: 1200px) {
-    .sliderxwrhc8 {
+    .sliderxu0c66 {
       width: calc(var(--max) - 100px) !important;
     }
-    .wrhc8-media {
+    .u0c66-media {
       width: 60px;
       height: 60px;
     }
