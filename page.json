@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة",
+        "fr": "Entreprise"
+      },
+      "status": "play",
+      "category": "",
+      "id": "gmst3i6kee",
+      "externalUrl": "",
+      "path": "kurumsal",
+      "keyword": {
+        "tr": "Alabo, ayakkabı, imalat, üretim, kurumsal, hakkımızda",
+        "en": "Alabo, shoes, manufacturing, production, corporate, about us",
+        "ar": "علابو، أحذية، تصنيع، إنتاج، مؤسسي، من نحن",
+        "fr": "Alabo, chaussures, fabrication, production, entreprise, à propos"
+      },
+      "description": {
+        "tr": "Alabo Şirketi - 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma. Poliüretan, PFC ve EVA alanlarında uzmanlaşmış üretim tesisleri.",
+        "en": "Alabo Company - Leading firm in shoe manufacturing and trade since 1952. Specialized production facilities in polyurethane, PFC and EVA areas.",
+        "ar": "شركة علابو - شركة رائدة في تصنيع وتجارة الأحذية منذ عام 1952. منشآت إنتاج متخصصة في مجالات البولي يوريثين و PFC و EVA.",
+        "fr": "Société Alabo - Entreprise leader dans la fabrication et le commerce de chaussures depuis 1952. Installations de production spécialisées dans les domaines du polyuréthane, PFC et EVA."
+      },
+      "spot": {
+        "tr": "1952'den beri kaliteli ayakkabı üretimi",
+        "en": "Quality shoe production since 1952",
+        "ar": "إنتاج أحذية عالية الجودة منذ عام 1952",
+        "fr": "Production de chaussures de qualité depuis 1952"
+      },
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Ürünlerimiz",
+        "en": "Products",
+        "ar": "منتجاتنا",
+        "fr": "Produits"
+      },
+      "status": "play",
+      "category": "",
+      "id": "cmclknsybj",
+      "externalUrl": "",
+      "path": "urunlerimiz",
+      "keyword": {
+        "tr": "Alabo ürünleri, ayakkabı, poliüretan, PFC, EVA, TPU",
+        "en": "Alabo products, shoes, polyurethane, PFC, EVA, TPU",
+        "ar": "منتجات علابو، أحذية، بولي يوريثين، PFC، EVA، TPU",
+        "fr": "Produits Alabo, chaussures, polyuréthane, PFC, EVA, TPU"
+      },
+      "description": {
+        "tr": "Alabo Şirketi'nin geniş ürün yelpazesi. Poliüretan, PFC, EVA ve TPU malzemelerden üretilen kaliteli ayakkabılar.",
+        "en": "Alabo Company's wide product range. Quality shoes made from polyurethane, PFC, EVA and TPU materials.",
+        "ar": "مجموعة منتجات شركة علابو الواسعة. أحذية عالية الجودة مصنوعة من مواد البولي يوريثين و PFC و EVA و TPU.",
+        "fr": "Large gamme de produits de la Société Alabo. Chaussures de qualité fabriquées à partir de matériaux en polyuréthane, PFC, EVA et TPU."
+      },
+      "spot": {
+        "tr": "Kaliteli malzemeler, üstün işçilik",
+        "en": "Quality materials, superior craftsmanship",
+        "ar": "مواد عالية الجودة، حرفية فائقة",
+        "fr": "Matériaux de qualité, savoir-faire supérieur"
+      },
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "fvarcv"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Multimedia",
+        "en": "Multimedia",
+        "ar": "وسائط متعددة",
+        "fr": "Multimédia"
+      },
+      "status": "play",
+      "category": "",
+      "id": "wbyln6tjxn",
+      "externalUrl": "",
+      "path": "multimedia",
+      "keyword": {
+        "tr": "Alabo fotoğrafları, video, galeri, üretim tesisleri",
+        "en": "Alabo photos, video, gallery, production facilities",
+        "ar": "صور علابو، فيديو، معرض، منشآت الإنتاج",
+        "fr": "Photos Alabo, vidéo, galerie, installations de production"
+      },
+      "description": {
+        "tr": "Alabo Şirketi'nin üretim tesisleri, ürünleri ve global operasyonlarını gösteren fotoğraf ve videolar.",
+        "en": "Photos and videos showing Alabo Company's production facilities, products and global operations.",
+        "ar": "صور وفيديوهات تعرض منشآت الإنتاج ومنتجات وعمليات شركة علابو العالمية.",
+        "fr": "Photos et vidéos montrant les installations de production, les produits et les opérations mondiales de la Société Alabo."
+      },
+      "spot": {
+        "tr": "Üretim tesislerimizden görüntüler",
+        "en": "Images from our production facilities",
+        "ar": "صور من منشآت الإنتاج لدينا",
+        "fr": "Images de nos installations de production"
+      },
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "ofzkl5",
+          "esqj8h"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا",
+        "fr": "Contact"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sutmqh6t4g",
+      "externalUrl": "",
+      "path": "iletisim",
+      "keyword": {
+        "tr": "Alabo iletişim, adres, telefon, e-posta, global ofisler",
+        "en": "Alabo contact, address, phone, email, global offices",
+        "ar": "علابو للاتصال، العنوان، الهاتف، البريد الإلكتروني، المكاتب العالمية",
+        "fr": "Contact Alabo, adresse, téléphone, email, bureaux mondiaux"
+      },
+      "description": {
+        "tr": "Alabo Şirketi iletişim bilgileri. İstanbul, Dubai, Mısır ve diğer global ofislerimizin iletişim detayları.",
+        "en": "Alabo Company contact information. Contact details of our Istanbul, Dubai, Egypt and other global offices.",
+        "ar": "معلومات الاتصال بشركة علابو. تفاصيل الاتصال بمكاتبنا في إسطنبول ودبي ومصر وغيرها من المكاتب العالمية.",
+        "fr": "Informations de contact de la Société Alabo. Coordonnées de nos bureaux à Istanbul, Dubaï, Égypte et autres bureaux mondiaux."
+      },
+      "spot": {
+        "tr": "Global ofislerimizle iletişime geçin",
+        "en": "Contact our global offices",
+        "ar": "تواصل مع مكاتبنا العالمية",
+        "fr": "Contactez nos bureaux mondiaux"
+      },
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "merpqx",
+          "pp1xsk"
+        ],
+        "footer": []
+      }
+    }
+  ],
+  "modulestatus": {
+    "page": true,
+    "body": true
+  }
+}

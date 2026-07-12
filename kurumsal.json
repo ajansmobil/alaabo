@@ -1,0 +1,352 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة",
+        "fr": "Entreprise"
+      },
+      "status": "play",
+      "id": "kurumsal",
+      "path": "kurumsal",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo, ayakkabı, imalat, üretim, kurumsal, hakkımızda",
+        "en": "Alabo, shoes, manufacturing, production, corporate, about us",
+        "ar": "علاء، أحذية، تصنيع، إنتاج، شركة، من نحن",
+        "fr": "Alabo, chaussures, fabrication, production, entreprise, à propos de nous"
+      },
+      "description": {
+        "tr": "Alabo Şirketi - 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma. Poliüretan, PFC ve EVA alanlarında uzmanlaşmış üretim tesisleri.",
+        "en": "Alabo Company - A leading company in shoe manufacturing and trade since 1952. Specialized production facilities in polyurethane, PFC, and EVA areas.",
+        "ar": "شركة علاء - شركة رائدة في تصنيع وتجارة الأحذية منذ عام 1952. مرافق إنتاج متخصصة في مجالات البولي يوريثين و PFC و EVA.",
+        "fr": "Alabo Company - Une entreprise leader dans la fabrication et le commerce de chaussures depuis 1952. Installations de production spécialisées dans les domaines du polyuréthane, du PFC et de l'EVA."
+      },
+      "spot": {
+        "tr": "1952'den beri kaliteli ayakkabı üretimi",
+        "en": "Quality shoe production since 1952",
+        "ar": "إنتاج أحذية عالية الجودة منذ عام 1952",
+        "fr": "Production de chaussures de qualité depuis 1952"
+      },
+      "index": 0,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About Us",
+        "ar": "من نحن",
+        "fr": "À propos de nous"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo, ayakkabı, imalat, üretim, kurumsal, hakkımızda",
+        "en": "Alabo, shoes, manufacturing, production, corporate, about us",
+        "ar": "علاء، أحذية، تصنيع، إنتاج، شركة، من نحن",
+        "fr": "Alabo, chaussures, fabrication, production, entreprise, à propos de nous"
+      },
+      "description": {
+        "tr": "Alabo Şirketi - 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma. Poliüretan, PFC ve EVA alanlarında uzmanlaşmış üretim tesisleri.",
+        "en": "Alabo Company - A leading company in shoe manufacturing and trade since 1952. Specialized production facilities in polyurethane, PFC, and EVA areas.",
+        "ar": "شركة علاء - شركة رائدة في تصنيع وتجارة الأحذية منذ عام 1952. مرافق إنتاج متخصصة في مجالات البولي يوريثين و PFC و EVA.",
+        "fr": "Alabo Company - Une entreprise leader dans la fabrication et le commerce de chaussures depuis 1952. Installations de production spécialisées dans les domaines du polyuréthane, du PFC et de l'EVA."
+      },
+      "spot": {
+        "tr": "1952'den beri kaliteli ayakkabı üretimi",
+        "en": "Quality shoe production since 1952",
+        "ar": "إنتاج أحذية عالية الجودة منذ عام 1952",
+        "fr": "Production de chaussures de qualité depuis 1952"
+      },
+      "index": 1,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Misyon",
+        "en": "Mission",
+        "ar": "مهمتنا",
+        "fr": "Mission"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo misyon, kalite, üretim, sürdürülebilirlik",
+        "en": "Alabo mission, quality, production, sustainability",
+        "ar": "علابو مهمة، جودة، إنتاج، استدامة",
+        "fr": "Alabo mission, qualité, production, durabilité"
+      },
+      "description": {
+        "tr": "Alabo Şirketi'nin misyonu - Kaliteli ayakkabı üretimi ve global pazarda liderlik",
+        "en": "Alabo Company's mission - Quality shoe production and leadership in the global market",
+        "ar": "مهمة شركة علابو - إنتاج أحذية عالية الجودة والريادة في السوق العالمية",
+        "fr": "Mission de la Société Alabo - Production de chaussures de qualité et leadership sur le marché mondial"
+      },
+      "spot": {
+        "tr": "Kalite ve sürdürülebilirlik odaklı üretim",
+        "en": "Quality and sustainability focused production",
+        "ar": "إنتاج يركز على الجودة والاستدامة",
+        "fr": "Production axée sur la qualité et la durabilité"
+      },
+      "index": 2,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Vizyon",
+        "en": "Vision",
+        "ar": "رؤيتنا",
+        "fr": "Vision"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo vizyon, global marka, üretim teknolojileri",
+        "en": "Alabo vision, global brand, production technologies",
+        "ar": "علابو رؤية، علامة عالمية، تكنولوجيات الإنتاج",
+        "fr": "Alabo vision, marque mondiale, technologies de production"
+      },
+      "description": {
+        "tr": "Alabo Şirketi'nin vizyonu - Global ayakkabı markası olmak ve üretim teknolojilerinde liderlik",
+        "en": "Alabo Company's vision - To be a global shoe brand and lead in production technologies",
+        "ar": "رؤية شركة علابو - أن تكون علامة عالمية للأحذية والريادة في تكنولوجيات الإنتاج",
+        "fr": "Vision de la Société Alabo - Être une marque mondiale de chaussures et leader dans les technologies de production"
+      },
+      "spot": {
+        "tr": "Global pazarda lider marka olmak",
+        "en": "To be a leading brand in the global market",
+        "ar": "أن تكون علامة رائدة في السوق العالمية",
+        "fr": "Être une marque leader sur le marché mondial"
+      },
+      "index": 3,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız",
+        "en": "Quality Policy",
+        "ar": "سياسة الجودة",
+        "fr": "Politique de Qualité"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalite-politikamiz",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo kalite, standartlar, müşteri memnuniyeti",
+        "en": "Alabo quality, standards, customer satisfaction",
+        "ar": "علابو جودة، معايير، رضا العملاء",
+        "fr": "Alabo qualité, normes, satisfaction client"
+      },
+      "description": {
+        "tr": "Alabo Şirketi kalite politikası - Müşteri memnuniyeti odaklı üretim ve sürekli iyileştirme",
+        "en": "Alabo Company quality policy - Customer satisfaction focused production and continuous improvement",
+        "ar": "سياسة جودة شركة علابو - إنتاج يركز على رضا العملاء والتحسين المستمر",
+        "fr": "Politique qualité de la Société Alabo - Production axée sur la satisfaction client et amélioration continue"
+      },
+      "spot": {
+        "tr": "En yüksek kalite standartları",
+        "en": "Highest quality standards",
+        "ar": "أعلى معايير الجودة",
+        "fr": "Normes de qualité les plus élevées"
+      },
+      "index": 4,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası",
+        "en": "Privacy Policy",
+        "ar": "سياسة الخصوصية",
+        "fr": "Politique de Confidentialité"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilik-politikasi",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo gizlilik, kişisel veriler, çerezler",
+        "en": "Alabo privacy, personal data, cookies",
+        "ar": "علابو خصوصية، بيانات شخصية، كوكيز",
+        "fr": "Alabo confidentialité, données personnelles, cookies"
+      },
+      "description": {
+        "tr": "Alabo Şirketi gizlilik politikası - Kişisel verilerin korunması ve güvenliği",
+        "en": "Alabo Company privacy policy - Protection and security of personal data",
+        "ar": "سياسة خصوصية شركة علابو - حماية وأمن البيانات الشخصية",
+        "fr": "Politique de confidentialité de la Société Alabo - Protection et sécurité des données personnelles"
+      },
+      "spot": {
+        "tr": "Kişisel verilerinizin güvenliği bizim için önemli",
+        "en": "The security of your personal data is important to us",
+        "ar": "أمن بياناتك الشخصية مهم بالنسبة لنا",
+        "fr": "La sécurité de vos données personnelles est importante pour nous"
+      },
+      "index": 5,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler",
+        "en": "Personal Data",
+        "ar": "البيانات الشخصية",
+        "fr": "Données Personnelles"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisisel-veriler",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo kişisel veriler, KVKK, veri güvenliği",
+        "en": "Alabo personal data, KVKK, data security",
+        "ar": "علابو بيانات شخصية، KVKK، أمن البيانات",
+        "fr": "Alabo données personnelles, KVKK, sécurité des données"
+      },
+      "description": {
+        "tr": "Alabo Şirketi kişisel veriler politikası - KVKK kapsamında veri güvenliği ve koruma",
+        "en": "Alabo Company personal data policy - Data security and protection under KVKK",
+        "ar": "سياسة البيانات الشخصية لشركة علابو - حماية وحماية البيانات بموجب KVKK",
+        "fr": "Politique des données personnelles de la Société Alabo - Sécurité et protection des données selon KVKK"
+      },
+      "spot": {
+        "tr": "KVKK kapsamında veri güvenliği",
+        "en": "Data security under KVKK",
+        "ar": "أمن البيانات بموجب KVKK",
+        "fr": "Sécurité des données selon KVKK"
+      },
+      "index": 6,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları",
+        "en": "User Rights",
+        "ar": "حقوق المستخدم",
+        "fr": "Droits des Utilisateurs"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanici-haklari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo kullanıcı hakları, veri koruma, KVKK hakları",
+        "en": "Alabo user rights, data protection, KVKK rights",
+        "ar": "علابو حقوق المستخدم، حماية البيانات، حقوق KVKK",
+        "fr": "Alabo droits utilisateur, protection des données, droits KVKK"
+      },
+      "description": {
+        "tr": "Alabo Şirketi kullanıcı hakları - KVKK kapsamında veri koruma ve kullanıcı hakları",
+        "en": "Alabo Company user rights - Data protection and user rights under KVKK",
+        "ar": "حقوق المستخدم لشركة علابو - حماية البيانات وحقوق المستخدم بموجب KVKK",
+        "fr": "Droits utilisateur de la Société Alabo - Protection des données et droits utilisateur selon KVKK"
+      },
+      "spot": {
+        "tr": "KVKK kapsamında kullanıcı hakları",
+        "en": "User rights under KVKK",
+        "ar": "حقوق المستخدم بموجب KVKK",
+        "fr": "Droits utilisateur selon KVKK"
+      },
+      "index": 7,
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı",
+        "en": "Legal Notice",
+        "ar": "إشعار قانوني",
+        "fr": "Mentions Légales"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasal-uyari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "keyword": {
+        "tr": "Alabo yasal uyarı, telif hakları, kullanım şartları",
+        "en": "Alabo legal notice, copyright, terms of use",
+        "ar": "علابو إشعار قانوني، حقوق النشر، شروط الاستخدام",
+        "fr": "Alabo mentions légales, droits d'auteur, conditions d'utilisation"
+      },
+      "description": {
+        "tr": "Alabo Şirketi yasal uyarı - Telif hakları ve kullanım şartları",
+        "en": "Alabo Company legal notice - Copyright and terms of use",
+        "ar": "إشعار قانوني لشركة علابو - حقوق النشر وشروط الاستخدام",
+        "fr": "Mentions légales de la Société Alabo - Droits d'auteur et conditions d'utilisation"
+      },
+      "spot": {
+        "tr": "Telif hakları ve yasal kullanım şartları",
+        "en": "Copyright and legal terms of use",
+        "ar": "حقوق النشر وشروط الاستخدام القانونية",
+        "fr": "Droits d'auteur et conditions d'utilisation légales"
+      },
+      "index": 8,
+      "desc": {}
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "esp10j"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "detail": true,
+    "bgimg": true
+  }
+}

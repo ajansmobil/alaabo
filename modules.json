@@ -1,0 +1,321 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menü ",
+      "path": "menu-3",
+      "local": "header",
+      "category": "menu",
+      "desing": {
+        "logo": "logo.png",
+        "color": "#1e3046",
+        "logosize": 200,
+        "logosizemobil": 200
+      },
+      "id": "w0xfwj",
+      "data": [
+        {
+          "name": {
+            "tr": "Bizi hemen arayın",
+            "en": "Call Us Now",
+            "ar": "اتصل بنا الآن",
+            "fr": "Appelez-nous maintenant"
+          },
+          "spot": "+90 530 157 55 72",
+          "icon": "phone",
+          "url": "tel:00905301575572",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "Bize yazın",
+            "en": "Contact Us",
+            "ar": "اتصل بنا",
+            "fr": "Contactez-nous"
+          },
+          "spot": "info@{{domain}}",
+          "icon": "mail",
+          "url": "email:info@{{domain}}",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "27600 Başpınar Osb",
+            "en": "27600 Başpınar Osb",
+            "ar": "27600 Başpınar Osb",
+            "fr": "27600 Başpınar Osb"
+          },
+          "spot": "Şehitkamil/Gaziantep/TÜRKİYE",
+          "icon": "location_on",
+          "externalUrl": "",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        }
+      ]
+    },
+    {
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "desing": {
+        "bgcolor": "#1e3046",
+        "color": "#fff"
+      },
+      "id": "gv2b1d",
+      "index": 1
+    },
+    {
+      "index": 2,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "desing": {
+        "delay": 3000
+      },
+      "data": [
+        {
+          "img": "1.png"
+        }
+      ],
+      "id": "b5kofn"
+    },
+    {
+      "name": "Tanıtım Modülü",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "desing": {
+        "name": {
+          "tr": "Alabo'yu Tanıyın",
+          "en": "Get to Know Alabo",
+          "ar": "تعرف على علاء",
+          "fr": "Découvrez Alabo"
+        },
+        "spot": {
+          "tr": "Alabo olarak 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma olarak hizmet veriyoruz. Poliüretan, PFC ve EVA alanlarındaki uzmanlığımızla, günlük 240.000 çift üretim kapasitemizle müşterilerimize en kaliteli ürünleri sunuyoruz. İstanbul, Dubai ve Mısır'daki üretim tesislerimizle global pazarda güvenilir bir tedarikçi olarak faaliyet gösteriyoruz.",
+          "en": "As Alabo, we have been a leading company in shoe manufacturing and trade since 1952. With our expertise in polyurethane, PFC, and EVA, we provide the highest quality products to our customers with our daily production capacity of 240,000 pairs. We operate as a reliable supplier in the global market with our production facilities in Istanbul, Dubai, and Egypt.",
+          "ar": "نحن في علاء، كنا شركة رائدة في تصنيع وتجارة الأحذية منذ عام 1952. مع خبرتنا في البولي يوريثين و PFC و EVA، نقدم أعلى جودة من المنتجات لعملائنا بقدرة إنتاجية يومية تبلغ 240،000 زوج. نحن نعمل كمورد موثوق في السوق العالمية مع مرافق الإنتاج لدينا في اسطنبول ودبي ومصر.",
+          "fr": "En tant qu'Alabo, nous sommes une entreprise leader dans la fabrication et le commerce de chaussures depuis 1952. Avec notre expertise en polyuréthane, PFC et EVA, nous fournissons les produits de la plus haute qualité à nos clients avec notre capacité de production quotidienne de 240 000 paires. Nous opérons comme un fournisseur fiable sur le marché mondial avec nos installations de production à Istanbul, Dubaï et en Égypte."
+        },
+        "name2": {
+          "tr": "Vizyonumuz",
+          "en": "Our Vision",
+          "ar": "رؤيتنا",
+          "fr": "Notre Vision"
+        },
+        "spot2": {
+          "tr": "Ayakkabı sektöründe global bir marka olmak ve üretim teknolojilerimizi sürekli geliştirerek, dünya pazarlarında lider konumumuzu güçlendirmek.",
+          "en": "To be a global brand in the shoe industry and strengthen our leadership position in world markets by continuously developing our production technologies.",
+          "ar": "أن نكون علامة تجارية عالمية في صناعة الأحذية وتعزيز موقعنا القيادي في الأسواق العالمية من خلال تطوير تقنيات الإنتاج لدينا باستمرار.",
+          "fr": "Être une marque mondiale dans l'industrie de la chaussure et renforcer notre position de leader sur les marchés mondiaux en développant continuellement nos technologies de production."
+        },
+        "icon2": "home",
+        "name3": {
+          "tr": "Misyonumuz",
+          "en": "Our Mission",
+          "ar": "مهمتنا",
+          "fr": "Notre Mission"
+        },
+        "spot3": {
+          "tr": "Müşterilerimize en kaliteli ayakkabı ürünlerini sunmak ve global pazarda lider konumumuzu sürdürmek.",
+          "en": "To provide our customers with the highest quality shoe products and maintain our leadership position in the global market.",
+          "ar": "تقديم منتجات أحذية عالية الجودة لعملائنا والحفاظ على موقعنا القيادي في السوق العالمية.",
+          "fr": "Fournir à nos clients des produits de chaussures de la plus haute qualité et maintenir notre position de leader sur le marché mondial."
+        },
+        "icon3": "home",
+        "img": "index.png",
+        "bgcolor": "#1e3046",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20"
+      },
+      "id": "p0fxpl",
+      "index": 3
+    },
+    {
+      "index": 4,
+      "name": "Module Video",
+      "path": "module-video",
+      "local": "body",
+      "category": "video",
+      "desing": {
+        "name": {
+          "tr": "Alabo Tanıtım Videosu",
+          "en": "Alabo Promotional Video",
+          "ar": "فيديو ترويجي لعلاء",
+          "fr": "Vidéo Promotionnelle Alabo"
+        },
+        "video": "index.mp4",
+        "margintop": "20",
+        "marginbotton": "20",
+        "bgcolor": "#000"
+      },
+      "id": "ofzkl5"
+    },
+    {
+      "index": 5,
+      "name": "Page Desing 2",
+      "path": "page-desing-3",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "category": "kurumsal"
+      },
+      "id": "esp10j"
+    },
+    {
+      "index": 6,
+      "name": "Sayfa Listesi Kare",
+      "path": "page-list",
+      "local": "body",
+      "category": "page-list",
+      "desing": {
+        "page": "products",
+        "size": 4
+      },
+      "id": "fvarcv"
+    },
+    {
+      "index": 7,
+      "name": "Page Slider 2",
+      "path": "page-slider-2",
+      "local": "body",
+      "category": "slider",
+      "desing": {
+        "aspect-ratio": "1/1",
+        "page": "products",
+        "color": "#1e3046",
+        "name": {
+          "tr": "Ürünlerimiz",
+          "en": "Our Products",
+          "ar": "منتجاتنا",
+          "fr": "Nos Produits"
+        },
+        "margin-top": "20",
+        "margin-bottom": "20"
+      },
+      "id": "dp99ev"
+    },
+    {
+      "index": 8,
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "desing": {
+        "color": "#1e3046",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "اتصل بنا",
+          "fr": "Contactez-nous"
+        }
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+90 530 157 55 72",
+          "url": "tel:05301575572"
+        },
+        {
+          "icon": "email",
+          "text": "info@{{domain}}"
+        },
+        {
+          "icon": "map",
+          "text": "27600 Başpınar Osb/Şehitkamil/Gaziantep"
+        }
+      ],
+      "id": "merpqx"
+    },
+    {
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#fff",
+        "color": "#1e3046",
+        "img": "map.png",
+        "externalUrl": ""
+      },
+      "id": "pp1xsk",
+      "index": 9
+    },
+    {
+      "index": 10,
+      "name": "Sosyal Media Slider",
+      "path": "social-slider",
+      "local": "body",
+      "category": "social-slider",
+      "desing": {
+        "name": {
+          "tr": "Sosyal Medyada Biz",
+          "en": "Follow Us on Social Media",
+          "ar": "تابعونا على وسائل التواصل الاجتماعي",
+          "fr": "Suivez-nous sur les réseaux sociaux"
+        },
+        "bgcolor": "#1e3046",
+        "bgcolor2": "#000428",
+        "padding": "25px 0px 25px 0px",
+        "margin": "0px 0px 0px 0px"
+      },
+      "data": [
+        {
+          "img": "/src/icon/facebook.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/instagram.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/linkedin.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/youtube.png",
+          "externalUrl": ""
+        },
+        {
+          "img": "/src/icon/whatsapp.png",
+          "url": "https://api.whatsapp.com/send/?phone=905320000000&text=&app_absent=0"
+        },
+        {
+          "img": "/src/icon/google-maps.png",
+          "externalUrl": ""
+        }
+      ],
+      "id": "esqj8h"
+    },
+    {
+      "index": 11,
+      "name": "Ürünler",
+      "path": "page-desing-4",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "150",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "category": "products",
+        "menu-active": "#1e3046"
+      },
+      "id": "q62uf0"
+    }
+  ]
+}

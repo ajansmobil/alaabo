@@ -1,0 +1,609 @@
+{
+  "name": "Ürünler",
+  "path": "products",
+  "desc": [
+    {
+      "name": {
+        "tr": "Türü",
+        "en": "Type",
+        "ar": "النوع",
+        "fr": "Type"
+      },
+      "path": "type"
+    },
+    {
+      "name": {
+        "tr": "Model",
+        "en": "Model",
+        "ar": "الموديل",
+        "fr": "Modèle"
+      },
+      "path": "model"
+    },
+    {
+      "name": {
+        "tr": "Cinsiyet",
+        "en": "Gender",
+        "ar": "الجنس",
+        "fr": "Genre"
+      },
+      "path": "gender"
+    },
+    {
+      "name": {
+        "tr": "Numara",
+        "en": "Size",
+        "ar": "المقاس",
+        "fr": "Taille"
+      },
+      "path": "number"
+    }
+  ],
+  "data": [
+    {
+      "name": {
+        "tr": "EVA.R.34",
+        "en": "EVA.R.34",
+        "ar": "EVA.R.34",
+        "fr": "EVA.R.34"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sqtcy64qxj",
+      "externalUrl": "",
+      "path": "evar34-",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.34, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.34, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.34، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.34, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.34 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.34 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.34، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.34, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 0,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10142",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "co5f9.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "PVC.R.0009",
+        "en": "PVC.R.0009",
+        "ar": "PVC.R.0009",
+        "fr": "PVC.R.0009"
+      },
+      "status": "play",
+      "category": "",
+      "id": "o61z506y6p",
+      "externalUrl": "",
+      "path": "pvcr0009-",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "PVC.R.0009, PVC tabanlı ayakkabı, klasik ayakkabı, şık tasarım, dayanıklı malzeme, resmi ayakkabı, ofis ayakkabısı, iş ayakkabısı",
+        "en": "PVC.R.0009, PVC sole shoes, classic shoes, elegant design, durable material, formal shoes, office shoes, business shoes",
+        "ar": "PVC.R.0009، أحذية نعل PVC، أحذية كلاسيكية، تصميم أنيق، مادة متينة، أحذية رسمية، أحذية مكتب، أحذية أعمال",
+        "fr": "PVC.R.0009, chaussures à semelle PVC, chaussures classiques, design élégant, matériau durable, chaussures formelles, chaussures de bureau, chaussures d'affaires"
+      },
+      "description": {
+        "tr": "PVC.R.0009 modeli, şık tasarımı ve dayanıklı PVC tabanıyla klasik tarzda bir ayakkabı. Resmi ve günlük kullanıma uygundur. Ofis ve iş ortamları için profesyonel görünüm sağlar.",
+        "en": "PVC.R.0009 model, a classic style shoe with elegant design and durable PVC sole. Suitable for formal and daily use. Provides professional appearance for office and business environments.",
+        "ar": "موديل PVC.R.0009، حذاء كلاسيكي بتصميم أنيق ونعل PVC متين. مناسب للاستخدام الرسمي واليومي. يوفر مظهرًا احترافيًا لبيئات المكتب والأعمال.",
+        "fr": "Modèle PVC.R.0009, une chaussure de style classique avec un design élégant et une semelle PVC durable. Adapté à un usage formel et quotidien. Offre une apparence professionnelle pour les environnements de bureau et d'affaires."
+      },
+      "spot": {
+        "tr": "Klasik Koleksiyon",
+        "en": "Classic Collection",
+        "ar": "مجموعة كلاسيكية",
+        "fr": "Collection Classique"
+      },
+      "index": 1,
+      "icon": "home",
+      "desc": {
+        "type": "Klasik",
+        "model": "3078",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "b4a8s.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "PVC.N.3536",
+        "en": "PVC.N.3536",
+        "ar": "PVC.N.3536",
+        "fr": "PVC.N.3536"
+      },
+      "status": "play",
+      "category": "",
+      "id": "a46wmau428",
+      "externalUrl": "",
+      "path": "pvcn3536-18059",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "PVC.N.3536, PVC tabanlı ayakkabı, modern tasarım, günlük kullanım, rahat ayakkabı, şık model, casual ayakkabı, şehir ayakkabısı",
+        "en": "PVC.N.3536, PVC sole shoes, modern design, daily use, comfortable shoes, elegant model, casual shoes, city shoes",
+        "ar": "PVC.N.3536، أحذية نعل PVC، تصميم عصري، استخدام يومي، أحذية مريحة، موديل أنيق، أحذية كاجوال، أحذية مدينة",
+        "fr": "PVC.N.3536, chaussures à semelle PVC, design moderne, usage quotidien, chaussures confortables, modèle élégant, chaussures décontractées, chaussures de ville"
+      },
+      "description": {
+        "tr": "PVC.N.3536 modeli, modern tasarımı ve rahat kullanımıyla günlük hayatın her anına uygun şık bir ayakkabı. Şehir içi kullanım ve casual kombinler için ideal.",
+        "en": "PVC.N.3536 model, an elegant shoe with modern design and comfortable use, suitable for every moment of daily life. Ideal for urban use and casual combinations.",
+        "ar": "موديل PVC.N.3536، حذاء أنيق بتصميم عصري واستخدام مريح، مناسب لكل لحظة من الحياة اليومية. مثالي للاستخدام الحضري والتركيبات الكاجوال.",
+        "fr": "Modèle PVC.N.3536, une chaussure élégante avec un design moderne et un usage confortable, adaptée à chaque moment de la vie quotidienne. Idéal pour un usage urbain et des combinaisons décontractées."
+      },
+      "spot": {
+        "tr": "Modern Koleksiyon",
+        "en": "Modern Collection",
+        "ar": "مجموعة عصرية",
+        "fr": "Collection Moderne"
+      },
+      "index": 2,
+      "icon": "home",
+      "desc": {
+        "type": "Modern",
+        "model": "18059",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "wgn4h.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "PVC.N.3515",
+        "en": "PVC.N.3515",
+        "ar": "PVC.N.3515",
+        "fr": "PVC.N.3515"
+      },
+      "status": "play",
+      "category": "",
+      "id": "br7xrerrf0",
+      "externalUrl": "",
+      "path": "pvcn3515-18055",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "PVC.N.3515, PVC tabanlı ayakkabı, spor tasarım, aktif kullanım, dayanıklı ayakkabı, modern model, outdoor ayakkabı, trekking ayakkabısı",
+        "en": "PVC.N.3515, PVC sole shoes, sports design, active use, durable shoes, modern model, outdoor shoes, trekking shoes",
+        "ar": "PVC.N.3515، أحذية نعل PVC، تصميم رياضي، استخدام نشط، أحذية متينة، موديل عصري، أحذية خارجية، أحذية تسلق",
+        "fr": "PVC.N.3515, chaussures à semelle PVC, design sportif, usage actif, chaussures durables, modèle moderne, chaussures outdoor, chaussures de randonnée"
+      },
+      "description": {
+        "tr": "PVC.N.3515 modeli, spor tasarımı ve dayanıklı yapısıyla aktif kullanıma uygun modern bir ayakkabı. Outdoor aktiviteler ve trekking için özel tasarlanmış.",
+        "en": "PVC.N.3515 model, a modern shoe with sports design and durable structure, suitable for active use. Specially designed for outdoor activities and trekking.",
+        "ar": "موديل PVC.N.3515، حذاء عصري بتصميم رياضي وبنية متينة، مناسب للاستخدام النشط. مصمم خصيصًا للأنشطة الخارجية والتسلق.",
+        "fr": "Modèle PVC.N.3515, une chaussure moderne avec un design sportif et une structure durable, adaptée à un usage actif. Spécialement conçue pour les activités outdoor et la randonnée."
+      },
+      "spot": {
+        "tr": "Spor Koleksiyon",
+        "en": "Sports Collection",
+        "ar": "مجموعة رياضية",
+        "fr": "Collection Sportive"
+      },
+      "index": 3,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "18055",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "k3rty.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.35",
+        "en": "EVA.R.35",
+        "ar": "EVA.R.35",
+        "fr": "EVA.R.35"
+      },
+      "status": "play",
+      "category": "",
+      "id": "wdavygcwvr",
+      "externalUrl": "",
+      "path": "evar35-10141",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.35, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.35, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.35، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.35, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.35 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.35 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.35، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.35, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 4,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10141",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "ypqkb.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.35",
+        "en": "EVA.R.35",
+        "ar": "EVA.R.35",
+        "fr": "EVA.R.35"
+      },
+      "status": "play",
+      "category": "",
+      "id": "r73wc90b8x",
+      "externalUrl": "",
+      "path": "evar35-10140",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.35, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.35, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.35، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.35, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.35 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.35 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.35، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.35, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 5,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10140",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "odjj0.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.35",
+        "en": "EVA.R.35",
+        "ar": "EVA.R.35",
+        "fr": "EVA.R.35"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ngpo71zxg3",
+      "externalUrl": "",
+      "path": "evar35-10139",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.35, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.35, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.35، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.35, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.35 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.35 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.35، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.35, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 6,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10139",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "jaqtk.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.34",
+        "en": "EVA.R.34",
+        "ar": "EVA.R.34",
+        "fr": "EVA.R.34"
+      },
+      "status": "play",
+      "category": "",
+      "id": "el3v9s85f3",
+      "externalUrl": "",
+      "path": "evar34-10144",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.34, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.34, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.34، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.34, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.34 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.34 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.34، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.34, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 7,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10144",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "rgna2.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.34",
+        "en": "EVA.R.34",
+        "ar": "EVA.R.34",
+        "fr": "EVA.R.34"
+      },
+      "status": "play",
+      "category": "",
+      "id": "dvzml6xz3f",
+      "externalUrl": "",
+      "path": "evar34-10143",
+      "img": "index.webp",
+      "keyword": {
+        "tr": "EVA.R.34, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.34, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.34، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.34, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.34 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.34 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.34، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.34, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 8,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10143",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "od93l.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.34",
+        "en": "EVA.R.34",
+        "ar": "EVA.R.34",
+        "fr": "EVA.R.34"
+      },
+      "status": "play",
+      "category": "",
+      "id": "frgeenlr6m",
+      "externalUrl": "",
+      "path": "evar34-10142",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.34, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.34, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.34، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.34, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.34 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.34 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.34، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.34, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 9,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10142",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "s5xr8.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.25",
+        "en": "EVA.R.25",
+        "ar": "EVA.R.25",
+        "fr": "EVA.R.25"
+      },
+      "status": "play",
+      "category": "",
+      "id": "wi1t2rqxud",
+      "externalUrl": "",
+      "path": "evar25-10118",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.25, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.25, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.25، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.25, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.25 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.25 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.25، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.25, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 10,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10118",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "f1xbj.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "EVA.R.25",
+        "en": "EVA.R.25",
+        "ar": "EVA.R.25",
+        "fr": "EVA.R.25"
+      },
+      "status": "play",
+      "category": "",
+      "id": "obbool183h",
+      "externalUrl": "",
+      "path": "evar25-10099",
+      "img": "index.jpg",
+      "keyword": {
+        "tr": "EVA.R.25, EVA tabanlı ayakkabı, spor ayakkabı, hafif ayakkabı, dayanıklı taban, rahat ayakkabı, günlük kullanım, aktif spor",
+        "en": "EVA.R.25, EVA sole shoes, sports shoes, lightweight shoes, durable sole, comfortable shoes, daily use, active sports",
+        "ar": "EVA.R.25، أحذية نعل EVA، أحذية رياضية، أحذية خفيفة، نعل متين، أحذية مريحة، استخدام يومي، رياضة نشطة",
+        "fr": "EVA.R.25, chaussures à semelle EVA, chaussures de sport, chaussures légères, semelle durable, chaussures confortables, usage quotidien, sport actif"
+      },
+      "description": {
+        "tr": "EVA.R.25 modeli, hafif ve dayanıklı EVA tabanıyla öne çıkan spor ayakkabı. Rahat kullanım ve uzun ömürlü performans sunar. Günlük kullanım ve aktif spor aktiviteleri için ideal.",
+        "en": "EVA.R.25 model, sports shoes with lightweight and durable EVA sole. Offers comfortable use and long-lasting performance. Ideal for daily use and active sports activities.",
+        "ar": "موديل EVA.R.25، أحذية رياضية بنعل EVA خفيف ومتين. يوفر استخدامًا مريحًا وأداءً طويل الأمد. مثالي للاستخدام اليومي والأنشطة الرياضية النشطة.",
+        "fr": "Modèle EVA.R.25, chaussures de sport avec semelle EVA légère et durable. Offre un usage confortable et des performances durables. Idéal pour un usage quotidien et les activités sportives actives."
+      },
+      "spot": {
+        "tr": "Yeni Sezon",
+        "en": "New Season",
+        "ar": "موسم جديد",
+        "fr": "Nouvelle Saison"
+      },
+      "index": 11,
+      "icon": "home",
+      "desc": {
+        "type": "Spor",
+        "model": "10099",
+        "gender": "Unisex",
+        "number": "36-45"
+      },
+      "bgimg": "wf91w.png",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    }
+  ],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "q62uf0"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "detail": true,
+    "bgimg": true
+  }
+}

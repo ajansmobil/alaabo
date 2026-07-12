@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "data": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true
+      }
+    },
+    {
+      "name": "Ürünler",
+      "path": "products",
+      "desc": [
+        {
+          "name": {
+            "tr": "Türü",
+            "en": "",
+            "ar": "",
+            "fr": ""
+          },
+          "path": "type"
+        },
+        {
+          "name": {
+            "tr": "Model",
+            "en": "",
+            "ar": "",
+            "fr": ""
+          },
+          "path": "model"
+        },
+        {
+          "name": {
+            "tr": "Cinsiyet",
+            "en": "",
+            "ar": "",
+            "fr": ""
+          },
+          "path": "gender"
+        },
+        {
+          "name": {
+            "tr": "Numara",
+            "en": "",
+            "ar": "",
+            "fr": ""
+          },
+          "path": "number"
+        }
+      ],
+      "data": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": ["q62uf0"],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true,
+        "bgimg": true
+      }
+    },
+    {
+      "name": "Kurumsal",
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": ["esp10j"],
+        "footer": []
+      },
+      "modulestatus": {
+        "detail": true,
+        "bgimg": true
+      }
+    }
+  ]
+}

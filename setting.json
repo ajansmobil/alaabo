@@ -1,0 +1,28 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Alabo Şirketi - 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma. Poliüretan, PFC ve EVA alanlarında uzmanlaşmış üretim tesisleri."
+  },
+  "keyword": {
+    "tr": "Alabo , ayakkabı, imalat, üretim, poliüretan, PFC, EVA, TPU, global üretim"
+  },
+  "multi": false,
+  "category": "Kurumsal",
+  "name": "Alabo Company",
+  "domain": "alabo.company",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": true,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  }
+}
