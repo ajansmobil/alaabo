@@ -93,16 +93,16 @@
       "category": "module",
       "desing": {
         "name": {
-          "tr": "Alabo'yu Tanıyın",
-          "en": "Get to Know Alabo",
+          "tr": "alaabo'yu Tanıyın",
+          "en": "Get to Know alaabo",
           "ar": "تعرف على علاء",
-          "fr": "Découvrez Alabo"
+          "fr": "Découvrez alaabo"
         },
         "spot": {
-          "tr": "Alabo olarak 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma olarak hizmet veriyoruz. Poliüretan, PFC ve EVA alanlarındaki uzmanlığımızla, günlük 240.000 çift üretim kapasitemizle müşterilerimize en kaliteli ürünleri sunuyoruz. İstanbul, Dubai ve Mısır'daki üretim tesislerimizle global pazarda güvenilir bir tedarikçi olarak faaliyet gösteriyoruz.",
-          "en": "As Alabo, we have been a leading company in shoe manufacturing and trade since 1952. With our expertise in polyurethane, PFC, and EVA, we provide the highest quality products to our customers with our daily production capacity of 240,000 pairs. We operate as a reliable supplier in the global market with our production facilities in Istanbul, Dubai, and Egypt.",
+          "tr": "alaabo olarak 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma olarak hizmet veriyoruz. Poliüretan, PFC ve EVA alanlarındaki uzmanlığımızla, günlük 240.000 çift üretim kapasitemizle müşterilerimize en kaliteli ürünleri sunuyoruz. İstanbul, Dubai ve Mısır'daki üretim tesislerimizle global pazarda güvenilir bir tedarikçi olarak faaliyet gösteriyoruz.",
+          "en": "As alaabo, we have been a leading company in shoe manufacturing and trade since 1952. With our expertise in polyurethane, PFC, and EVA, we provide the highest quality products to our customers with our daily production capacity of 240,000 pairs. We operate as a reliable supplier in the global market with our production facilities in Istanbul, Dubai, and Egypt.",
           "ar": "نحن في علاء، كنا شركة رائدة في تصنيع وتجارة الأحذية منذ عام 1952. مع خبرتنا في البولي يوريثين و PFC و EVA، نقدم أعلى جودة من المنتجات لعملائنا بقدرة إنتاجية يومية تبلغ 240،000 زوج. نحن نعمل كمورد موثوق في السوق العالمية مع مرافق الإنتاج لدينا في اسطنبول ودبي ومصر.",
-          "fr": "En tant qu'Alabo, nous sommes une entreprise leader dans la fabrication et le commerce de chaussures depuis 1952. Avec notre expertise en polyuréthane, PFC et EVA, nous fournissons les produits de la plus haute qualité à nos clients avec notre capacité de production quotidienne de 240 000 paires. Nous opérons comme un fournisseur fiable sur le marché mondial avec nos installations de production à Istanbul, Dubaï et en Égypte."
+          "fr": "En tant qu'alaabo, nous sommes une entreprise leader dans la fabrication et le commerce de chaussures depuis 1952. Avec notre expertise en polyuréthane, PFC et EVA, nous fournissons les produits de la plus haute qualité à nos clients avec notre capacité de production quotidienne de 240 000 paires. Nous opérons comme un fournisseur fiable sur le marché mondial avec nos installations de production à Istanbul, Dubaï et en Égypte."
         },
         "name2": {
           "tr": "Vizyonumuz",
@@ -147,10 +147,10 @@
       "category": "video",
       "desing": {
         "name": {
-          "tr": "Alabo Tanıtım Videosu",
-          "en": "Alabo Promotional Video",
+          "tr": "alaabo Tanıtım Videosu",
+          "en": "alaabo Promotional Video",
           "ar": "فيديو ترويجي لعلاء",
-          "fr": "Vidéo Promotionnelle Alabo"
+          "fr": "Vidéo Promotionnelle alaabo"
         },
         "video": "index.mp4",
         "margintop": "20",
