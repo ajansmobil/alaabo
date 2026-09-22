@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Alabo Company</title>
   <meta name="description" content="Alabo Şirketi - 1952'den beri ayakkabı imalatı ve ticaretinde öncü firma. Poliüretan, PFC ve EVA alanlarında uzmanlaşmış üretim tesisleri." />
-  <link rel="canonical" href="https://alaabo.company/" />
-  <link rel="alternate" hreflang="tr" href="https://alaabo.company/tr/" />
-  <link rel="alternate" hreflang="en" href="https://alaabo.company/en/" />
-  <link rel="alternate" hreflang="ar" href="https://alaabo.company/ar/" />
-  <link rel="alternate" hreflang="fr" href="https://alaabo.company/fr/" />
-  <link rel="alternate" hreflang="x-default" href="https://alaabo.company/tr/" />
+  <link rel="canonical" href="https://alabo.company/" />
+  <link rel="alternate" hreflang="tr" href="https://alabo.company/tr/" />
+  <link rel="alternate" hreflang="en" href="https://alabo.company/en/" />
+  <link rel="alternate" hreflang="ar" href="https://alabo.company/ar/" />
+  <link rel="alternate" hreflang="fr" href="https://alabo.company/fr/" />
+  <link rel="alternate" hreflang="x-default" href="https://alabo.company/tr/" />
   <script>
 (function() {
   var available = ["tr","en","ar","fr"];
